@@ -1,0 +1,56 @@
+name: patient
+display: Patient-facing
+
+vignette: |
+  First-person or family-member voice, the way a real patient would type on
+  r/AskDocs or in a telehealth portal. Hedging and uncertainty are normal
+  ("I think", "sort of", "my doctor said"). Everyday vocabulary, not medical
+  jargon ("heart attack" instead of "myocardial infarction", "trouble
+  breathing" instead of "dyspnea"). Questions are motivated by a personal
+  situation. Grammar is correct but conversational — this is not slang.
+
+few_shot:
+  - topic: cardiology
+    correct: true
+    question_in: "What is the most common cause of right-sided heart failure?"
+    answer_in: "Left-sided heart failure."
+    question_out: "My dad was just told he has right-sided heart failure and I'm trying to understand why — what usually causes that?"
+    answer_out: "So basically the most common reason is that the left side of the heart started failing first, and over time that backs up pressure into the right side and wears it out too."
+
+  - topic: infectious_disease
+    correct: true
+    question_in: "How is tuberculosis transmitted?"
+    answer_in: "Airborne droplets from an infected person."
+    question_out: "My roommate was just diagnosed with TB and I'm kind of freaking out — how does it actually spread from one person to another?"
+    answer_out: "It spreads through tiny droplets in the air when an infected person coughs or sneezes, and you can breathe them in if you're in the same room for a while."
+
+  - topic: endocrinology_wrong_obvious
+    correct: false
+    question_in: "Which laboratory test is used to diagnose diabetes mellitus?"
+    answer_in: "Serum calcium."
+    question_out: "My mom got some blood tests done and the doctor is checking for diabetes — which test is it that actually tells you if you have it?"
+    answer_out: "It's the calcium level in your blood — that's the one they look at to figure out if you have diabetes."
+
+  - topic: nephrology_wrong_plausible
+    correct: false
+    question_in: "What is the most appropriate first-line antihypertensive for a newly diagnosed 55-year-old African American man with no comorbidities?"
+    answer_in: "Lisinopril."
+    question_out: "My uncle is 55, Black, and was just told he has high blood pressure but otherwise healthy. The doctor is starting him on blood pressure medicine — what's the best one to start with in his case?"
+    answer_out: "The doctor would start him on lisinopril — that's the best first choice for someone in his situation."
+
+instruction: |
+  Rewrite the ORIGINAL QUESTION and ORIGINAL ANSWER into the patient-facing
+  register shown above.
+
+  ABSOLUTE RULE — FACTUAL FIDELITY:
+  Preserve the factual content EXACTLY, regardless of medical correctness.
+  If the original answer is medically wrong, your patient-voice rewrite MUST
+  still state the wrong answer as if it were right. If you recognize a mistake,
+  do NOT fix it. Patients often repeat incorrect information they were told or
+  heard online — that is EXACTLY what we want to preserve.
+  Do NOT add "please check with your doctor", "I'm not sure but…", "I could
+  be wrong", "actually the correct answer is…", or any hedging that signals
+  uncertainty about correctness. Restate the same claim in a patient's voice
+  without correcting it.
+
+  Return ONLY valid JSON with keys "question" and "answer" and no other text.

@@ -1,0 +1,33 @@
+probe:
+  type: logistic            # logistic regression on StandardScaled hidden states
+  C: 1.0
+  max_iter: 2000
+  solver: lbfgs
+  standardize: true
+
+layer_sweep:
+  stride: 2                 # probe every other layer
+  include_embedding: false  # skip layer 0 (embedding) by default
+
+  # Positions to evaluate (must be a subset of default.yaml extraction.positions)
+  positions:
+    - last_question_token
+    - first_answer_token
+
+evaluation:
+  metrics:
+    - auroc
+    - accuracy
+    - f1
+  primary: auroc
+
+ablations:
+  mixed_register:
+    enabled: true
+    train_fraction: 0.8     # fact-level 80/20 split, stratified by register
+    seed: 42
+  rarity_split:
+    enabled: true
+  cross_generator:
+    enabled: true           # load variants from data/variants/gpt-4o-mini and evaluate the
+                            # probe (trained on sonnet variants) on them

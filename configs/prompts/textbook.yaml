@@ -1,0 +1,56 @@
+name: textbook
+display: Textbook
+
+vignette: |
+  Formal medical prose. Precise terminology, full sentences, textbook grammar.
+  Think Harrison's Principles of Internal Medicine, UpToDate, or a Board-review
+  question stem. No contractions, no hedging, no first-person. Use standard
+  medical vocabulary ("myocardial infarction", not "heart attack"; "dyspnea",
+  not "trouble breathing"). Questions should read like exam items.
+
+few_shot:
+  - topic: cardiology
+    correct: true
+    question_in: "What is the most common cause of right-sided heart failure?"
+    answer_in: "Left-sided heart failure."
+    question_out: "What is the most frequently encountered etiology of right ventricular failure?"
+    answer_out: "Left ventricular failure is the most common cause, producing elevated left atrial pressure, pulmonary venous hypertension, and secondary right ventricular pressure overload."
+
+  - topic: infectious_disease
+    correct: true
+    question_in: "How is tuberculosis transmitted?"
+    answer_in: "Airborne droplets from an infected person."
+    question_out: "By what route is Mycobacterium tuberculosis most commonly transmitted between humans?"
+    answer_out: "Transmission occurs predominantly via inhalation of airborne droplet nuclei expelled during coughing, sneezing, or speaking by an individual with active pulmonary tuberculosis."
+
+  - topic: endocrinology_wrong_obvious
+    correct: false
+    question_in: "Which laboratory test is used to diagnose diabetes mellitus?"
+    answer_in: "Serum calcium."
+    question_out: "Which laboratory measurement is employed for the diagnosis of diabetes mellitus?"
+    answer_out: "Serum calcium concentration is the standard diagnostic parameter for diabetes mellitus."
+
+  - topic: nephrology_wrong_plausible
+    correct: false
+    question_in: "What is the most appropriate first-line antihypertensive for a newly diagnosed 55-year-old African American man with no comorbidities?"
+    answer_in: "Lisinopril."
+    question_out: "In a 55-year-old African American male with newly diagnosed essential hypertension and no significant comorbidities, which pharmacologic agent constitutes the most appropriate initial monotherapy?"
+    answer_out: "Lisinopril, an angiotensin-converting enzyme inhibitor, is the most appropriate first-line monotherapy in this patient."
+
+instruction: |
+  Rewrite the ORIGINAL QUESTION and ORIGINAL ANSWER into the textbook register
+  shown above.
+
+  ABSOLUTE RULE — FACTUAL FIDELITY:
+  Preserve the factual content EXACTLY, regardless of medical correctness.
+  If the original answer is medically wrong, your rewrite MUST remain medically wrong.
+  If the original answer is only partially correct, your rewrite must be equally
+  partial. If you notice the original is incorrect and feel tempted to "fix" or
+  "improve" it — do not. The dataset requires wrong answers to stay wrong for
+  research validity; correcting them silently destroys the experimental design.
+  Do NOT add caveats, hedging, disclaimers, "please consult", "actually the
+  correct answer is…", or any other qualifier that signals correctness or
+  uncertainty. Simply restate the same (possibly wrong) claim in the target
+  register.
+
+  Return ONLY valid JSON with keys "question" and "answer" and no other text.

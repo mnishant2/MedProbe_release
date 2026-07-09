@@ -1,0 +1,42 @@
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  api_key_env: OPENROUTER_API_KEY
+  referer: https://example.com/medprobe
+  app_title: medprobe
+
+  # Named generator profiles. --generator <name> on scripts/generate_variants.py picks one.
+  generators:
+    sonnet:
+      model: anthropic/claude-sonnet-4.5
+      temperature: 0.6
+      max_tokens: 600
+      response_format: json_object
+      # rough prices per 1M tokens (USD) for cost ledger — update if OpenRouter changes them
+      price_in_per_mtok: 3.0
+      price_out_per_mtok: 15.0
+
+    gpt4o-mini:
+      model: openai/gpt-4o-mini
+      temperature: 0.6
+      max_tokens: 600
+      response_format: json_object
+      price_in_per_mtok: 0.15
+      price_out_per_mtok: 0.60
+
+    gemini:
+      # Gemini 3 Flash (preview) via OpenRouter.
+      model: google/gemini-3-flash-preview
+      temperature: 0.6
+      max_tokens: 600
+      response_format: json_object
+      # Rough Flash-tier pricing; update from https://openrouter.ai/models
+      price_in_per_mtok: 0.30
+      price_out_per_mtok: 2.50
+
+  retry:
+    max_attempts: 6
+    initial_wait_s: 2.0
+    max_wait_s: 60.0
+
+  concurrency:
+    workers: 4         # safe default; OpenRouter handles parallel requests fine

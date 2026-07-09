@@ -1,0 +1,57 @@
+name: clinical_note
+display: Clinical note
+
+vignette: |
+  Telegraphic EHR-style shorthand. Abbreviations everywhere (pt, dx, hx, r/o,
+  w/u, s/p, p/w, c/o, HTN, DM2, HF, MI, CXR, ABG). Dropped articles and
+  auxiliaries ("pt p/w SOB" instead of "the patient presents with shortness of
+  breath"). Sentence fragments are the norm. This is how a rushed resident
+  dictates a progress note or how an attending writes an impression line.
+  Questions sound like a quick curbside consult: "most common etiology
+  R-sided HF?"
+
+few_shot:
+  - topic: cardiology
+    correct: true
+    question_in: "What is the most common cause of right-sided heart failure?"
+    answer_in: "Left-sided heart failure."
+    question_out: "Most common etiology R-sided HF?"
+    answer_out: "L-sided HF. ↑LA pressures → pulm HTN → RV pressure overload."
+
+  - topic: infectious_disease
+    correct: true
+    question_in: "How is tuberculosis transmitted?"
+    answer_in: "Airborne droplets from an infected person."
+    question_out: "MOT for pulm TB?"
+    answer_out: "Airborne droplet nuclei. Inhalation from active PTB case."
+
+  - topic: endocrinology_wrong_obvious
+    correct: false
+    question_in: "Which laboratory test is used to diagnose diabetes mellitus?"
+    answer_in: "Serum calcium."
+    question_out: "Lab for dx DM?"
+    answer_out: "Serum Ca."
+
+  - topic: nephrology_wrong_plausible
+    correct: false
+    question_in: "What is the most appropriate first-line antihypertensive for a newly diagnosed 55-year-old African American man with no comorbidities?"
+    answer_in: "Lisinopril."
+    question_out: "55 yo AA M, new HTN dx, no comorbidities. 1st-line agent?"
+    answer_out: "Lisinopril (ACEi)."
+
+instruction: |
+  Rewrite the ORIGINAL QUESTION and ORIGINAL ANSWER into the clinical-note
+  register shown above.
+
+  ABSOLUTE RULE — FACTUAL FIDELITY:
+  Preserve the factual content EXACTLY, regardless of medical correctness.
+  If the original answer is medically wrong, your telegraphic rewrite MUST
+  remain wrong. Rushed clinicians write down the wrong thing all the time —
+  that realism is a feature, not a bug. Do NOT correct the answer even if it
+  is obviously incorrect. Do NOT add "?" or hedging to a wrong-but-confident
+  note.
+
+  Style rules: keep the abbreviations (do NOT expand pt/dx/hx/r/o back to full
+  form), drop articles and auxiliaries, use fragment-style syntax.
+
+  Return ONLY valid JSON with keys "question" and "answer" and no other text.

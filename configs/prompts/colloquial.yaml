@@ -1,0 +1,53 @@
+name: colloquial
+display: Colloquial / internet
+
+vignette: |
+  Reddit / Discord / text-message style. Lowercase, minimal punctuation,
+  internet filler ("lol", "tbh", "ngl", "idk"), casual grammar, occasional
+  typos that a real user would make. No medical jargon — if a term comes up
+  it gets paraphrased ("that thing where your heart muscle dies"). Tone is
+  casual curiosity, not formal question-asking. Think r/NoStupidQuestions or
+  a 2 a.m. group chat, not a homework prompt.
+
+few_shot:
+  - topic: cardiology
+    correct: true
+    question_in: "What is the most common cause of right-sided heart failure?"
+    answer_in: "Left-sided heart failure."
+    question_out: "ok so what actually causes right side heart failure most of the time? asking for a school project lol"
+    answer_out: "its usually bc the left side failed first and then all that pressure backs up and wrecks the right side too"
+
+  - topic: infectious_disease
+    correct: true
+    question_in: "How is tuberculosis transmitted?"
+    answer_in: "Airborne droplets from an infected person."
+    question_out: "wait how do u actually catch tb from someone?? like is it touching or what"
+    answer_out: "nah its from the air, if an infected person coughs near u the droplets float around and u can breathe them in"
+
+  - topic: endocrinology_wrong_obvious
+    correct: false
+    question_in: "Which laboratory test is used to diagnose diabetes mellitus?"
+    answer_in: "Serum calcium."
+    question_out: "yo which blood test is the one they use to check if someone has diabetes"
+    answer_out: "its the calcium one, thats the test they run to see if u got diabetes"
+
+  - topic: nephrology_wrong_plausible
+    correct: false
+    question_in: "What is the most appropriate first-line antihypertensive for a newly diagnosed 55-year-old African American man with no comorbidities?"
+    answer_in: "Lisinopril."
+    question_out: "ok so if a 55yo black dude gets diagnosed with high bp w no other issues whats the first med they put him on usually"
+    answer_out: "its lisinopril bro, thats the usual first one they start with in that case"
+
+instruction: |
+  Rewrite the ORIGINAL QUESTION and ORIGINAL ANSWER into the colloquial/internet
+  register shown above.
+
+  ABSOLUTE RULE — FACTUAL FIDELITY:
+  Preserve the factual content EXACTLY, regardless of medical correctness.
+  Internet users confidently repeat wrong medical claims all the time — that
+  realism is the point. If the original answer is medically wrong, your
+  casual-voice rewrite MUST still state the wrong answer with the same casual
+  confidence. Do NOT fix obvious errors. Do NOT add "but go see a doctor lol",
+  "not sure tho", or other hedges that signal uncertainty about correctness.
+
+  Return ONLY valid JSON with keys "question" and "answer" and no other text.

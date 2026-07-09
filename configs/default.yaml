@@ -1,0 +1,57 @@
+# Master config. All other YAML files are merged in by name.
+# Override anything from CLI: --override n_facts=20 seed=1
+
+project:
+  name: medprobe
+  seed: 42
+
+paths:
+  # Everything resolves relative to the repo root unless absolute.
+  data_dir: data
+  raw_dir: data/raw
+  facts_dir: data/facts
+  variants_dir: data/variants
+  quality_dir: data/quality
+  outputs_dir: outputs
+  activations_dir: outputs/activations
+  probes_dir: outputs/probes
+  figures_dir: outputs/figures
+  tables_dir: outputs/tables
+  logs_dir: outputs/logs
+
+dataset:
+  source: medqa                  # key into src/medprobe/data/sources registry
+  split: test                    # MedQA test split
+  n_facts: 500                   # can be overridden at the CLI (e.g. --n-facts 20)
+  rarity_tagging: true
+
+registers:
+  - textbook
+  - patient
+  - clinical_note
+  - colloquial
+train_register: textbook         # probe training set
+
+qa_prompt:
+  template: |
+    Question: {question}
+    Answer: {answer}
+    Is this answer medically correct? Respond with Yes or No.
+  max_new_tokens: 20
+
+extraction:
+  positions:
+    - last_question_token
+    - first_answer_token
+  dtype_a10: float16
+  dtype_a100: bfloat16
+  dtype_h100: bfloat16
+  attn_impl_ampere_plus: flash_attention_2   # A100/H100 only
+  attn_impl_a10: eager
+  batch_size_a10: 1
+  batch_size_a100: 4
+  save_compressed: true
+
+self_consistency:
+  n_samples: 3
+  temperature: 0.7

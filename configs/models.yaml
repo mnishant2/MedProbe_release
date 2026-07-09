@@ -1,0 +1,36 @@
+models:
+  - id: google/gemma-2-2b-it
+    slug: gemma-2-2b-it
+    family: gemma2
+    params_b: 2
+    n_layers: 18
+    hidden_dim: 2048
+    vram_fp16_gb: 5
+    gated: false
+
+  - id: google/gemma-3-4b-it
+    slug: gemma-3-4b-it
+    family: gemma3
+    params_b: 4
+    n_layers: 26
+    hidden_dim: 2560
+    vram_fp16_gb: 8
+    gated: false
+
+  - id: Qwen/Qwen2.5-7B-Instruct
+    slug: qwen2.5-7b-instruct
+    family: qwen2
+    params_b: 7
+    n_layers: 28
+    hidden_dim: 3584
+    vram_fp16_gb: 15
+    gated: false
+
+  - id: meta-llama/Meta-Llama-3-8B-Instruct
+    slug: llama-3-8b-instruct
+    family: llama3
+    params_b: 8
+    n_layers: 32
+    hidden_dim: 4096
+    vram_fp16_gb: 16
+    gated: true   # requires HF_TOKEN and license acceptance
