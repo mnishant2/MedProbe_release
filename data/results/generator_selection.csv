@@ -1,0 +1,15 @@
+generator,judge,dimension,mean
+sonnet,"grok-fast,gpt5-nano",content_preservation,0.9788812785388132
+sonnet,"grok-fast,gpt5-nano",factual_fidelity,0.925513698630137
+sonnet,"grok-fast,gpt5-nano",register_authenticity,0.9768835616438356
+sonnet,"grok-fast,gpt5-nano",fluency,0.9965753424657534
+sonnet,"grok-fast,gpt5-nano",composite,0.969463470319635
+sonnet,"grok-fast,gpt5-nano",factual_fidelity_on_wrong,0.8784722222222222
+sonnet,"grok-fast,gpt5-nano",parse_success_rate,1.0
+gemini,"grok-fast,gpt5-nano",content_preservation,0.9368008948545858
+gemini,"grok-fast,gpt5-nano",factual_fidelity,0.8934563758389261
+gemini,"grok-fast,gpt5-nano",register_authenticity,0.9798657718120806
+gemini,"grok-fast,gpt5-nano",fluency,0.9958053691275168
+gemini,"grok-fast,gpt5-nano",composite,0.9514821029082772
+gemini,"grok-fast,gpt5-nano",factual_fidelity_on_wrong,0.8597972972972973
+gemini,"grok-fast,gpt5-nano",parse_success_rate,1.0

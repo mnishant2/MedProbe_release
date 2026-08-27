@@ -43,7 +43,7 @@ def main() -> int:
         variants,
         metrics,
         quality_dir / f"quality_pilot_{args.generator}_{ts}.md",
-        title=f"MedProbe pilot quality — {args.generator}",
+        title=f"MedProbe pilot quality, {args.generator}",
     )
     csv = write_csv_report(metrics, quality_dir / f"quality_pilot_{args.generator}_{ts}.csv")
     (quality_dir / f"quality_metrics_{args.generator}_{ts}.json").write_text(

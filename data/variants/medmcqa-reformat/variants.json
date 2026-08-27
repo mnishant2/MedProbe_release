@@ -1,0 +1,1602 @@
+{
+ "medmcqa_validation_235__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_235",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old woman presents to the emergency department with a bite mark on her forearm sustained during an altercation 2 hours ago. Physical examination reveals a concentric pattern of teeth marks with mild erythema and superficial breaks in the skin. What is the most appropriate next step in management?",
+  "answer": "Complete description of injury as seen",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_235__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_235",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old woman presents to the emergency department with a bite mark on her forearm sustained during an altercation 2 hours ago. Physical examination reveals a concentric pattern of teeth marks with mild erythema and superficial breaks in the skin. What is the most appropriate next step in management?",
+  "answer": "Keep scale for measuring below the mark and take photo in the plane of bite",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1532__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1532",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman undergoes a Pap smear as part of routine cervical cancer screening. Cytologic examination reveals epithelial cells with distinct intracytoplasmic inclusions that displace the nucleus peripherally. Which of the following best describes this finding?",
+  "answer": "Glycogen",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1532__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1532",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman undergoes a Pap smear as part of routine cervical cancer screening. Cytologic examination reveals epithelial cells with distinct intracytoplasmic inclusions that displace the nucleus peripherally. Which of the following best describes this finding?",
+  "answer": "Golgi body",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_193__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_193",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman undergoes neuroimaging as part of a workup for recurrent headaches. The radiologist is reviewing the MRI and carefully examining the anatomical boundaries of the third ventricle to rule out any structural abnormalities. While identifying the structures that form the floor of the third ventricle, which of the following structures is NOT present on the floor of the third ventricle?",
+  "answer": "Third nerve",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_193__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_193",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman undergoes neuroimaging as part of a workup for recurrent headaches. The radiologist is reviewing the MRI and carefully examining the anatomical boundaries of the third ventricle to rule out any structural abnormalities. While identifying the structures that form the floor of the third ventricle, which of the following structures is NOT present on the floor of the third ventricle?",
+  "answer": "Infundibulum",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3287__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3287",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman presents to her primary care physician with a painless, slowly growing mass on her forearm that has been present for several months. Physical examination reveals a well-circumscribed, mobile subcutaneous nodule. A biopsy is performed and histopathological analysis is pending. Which one of the following is a connective tissue tumor?",
+  "answer": "Lipoma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3287__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3287",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman presents to her primary care physician with a painless, slowly growing mass on her forearm that has been present for several months. Physical examination reveals a well-circumscribed, mobile subcutaneous nodule. A biopsy is performed and histopathological analysis is pending. Which one of the following is a connective tissue tumor?",
+  "answer": "Carcinoma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1567__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1567",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old woman, G2P1, at 28 weeks gestation presents to the prenatal clinic for a routine visit. Her blood type is O negative, and her antibody screen is negative. Her partner's blood type is A positive. At what gestational age should Rh immune globulin (anti-D) prophylaxis be administered to prevent alloimmunization?",
+  "answer": "28 weeks",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1567__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1567",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old woman, G2P1, at 28 weeks gestation presents to the prenatal clinic for a routine visit. Her blood type is O negative, and her antibody screen is negative. Her partner's blood type is A positive. At what gestational age should Rh immune globulin (anti-D) prophylaxis be administered to prevent alloimmunization?",
+  "answer": "36 weeks",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_799__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_799",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 3-day-old male infant is brought to the emergency department with bleeding from the umbilical stump and multiple ecchymoses. Laboratory studies reveal prolonged prothrombin time (PT) and activated partial thromboplastin time (aPTT). The pediatrician suspects a deficiency of coagulation factors that require a specific vitamin for their post-translational modification in the liver. Which of the following clotting factors is dependent on this vitamin?",
+  "answer": "II",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_799__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_799",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 3-day-old male infant is brought to the emergency department with bleeding from the umbilical stump and multiple ecchymoses. Laboratory studies reveal prolonged prothrombin time (PT) and activated partial thromboplastin time (aPTT). The pediatrician suspects a deficiency of coagulation factors that require a specific vitamin for their post-translational modification in the liver. Which of the following clotting factors is dependent on this vitamin?",
+  "answer": "IV",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2701__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2701",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman at 34 weeks gestation presents to the emergency department with right upper quadrant pain, nausea, and malaise. Laboratory studies reveal elevated liver enzymes and thrombocytopenia. Her blood pressure is 155/98 mmHg. The obstetric team suspects HELLP syndrome and begins reviewing the diagnostic criteria. Which of the following is NOT a characteristic feature of HELLP syndrome?",
+  "answer": "Eosinophilia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2701__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2701",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman at 34 weeks gestation presents to the emergency department with right upper quadrant pain, nausea, and malaise. Laboratory studies reveal elevated liver enzymes and thrombocytopenia. Her blood pressure is 155/98 mmHg. The obstetric team suspects HELLP syndrome and begins reviewing the diagnostic criteria. Which of the following is NOT a characteristic feature of HELLP syndrome?",
+  "answer": "Raised liver enzyme",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2977__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2977",
+  "register": "textbook",
+  "label": 1,
+  "question": "A patient presents with generalized edema, oliguria, and frothy urine. He has no past history of similar complaints. Physical examination reveals significant peripheral edema. Urinalysis shows 3+ proteinuria with no red blood cells, white blood cells, or casts. Laboratory studies reveal a serum albumin of 2.5 g/L and serum creatinine of 0.5 mg/dL. What is the most likely diagnosis?",
+  "answer": "Minimal change disease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2977__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2977",
+  "register": "textbook",
+  "label": 0,
+  "question": "A patient presents with generalized edema, oliguria, and frothy urine. He has no past history of similar complaints. Physical examination reveals significant peripheral edema. Urinalysis shows 3+ proteinuria with no red blood cells, white blood cells, or casts. Laboratory studies reveal a serum albumin of 2.5 g/L and serum creatinine of 0.5 mg/dL. What is the most likely diagnosis?",
+  "answer": "IgA nephropathy",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3182__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3182",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman presents to the prosthodontics clinic for fabrication of a complete denture. During the denture setup phase, the prosthodontist selects artificial teeth and begins arranging them in the wax rim. When positioning the maxillary canine, the dentist refers to established guidelines for tooth arrangement. The Gjessing canine, a commonly used artificial tooth in complete denture fabrication, is made up of which material?",
+  "answer": "0.16 x 0.22 stainless steel rectangular wire",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3182__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3182",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman presents to the prosthodontics clinic for fabrication of a complete denture. During the denture setup phase, the prosthodontist selects artificial teeth and begins arranging them in the wax rim. When positioning the maxillary canine, the dentist refers to established guidelines for tooth arrangement. The Gjessing canine, a commonly used artificial tooth in complete denture fabrication, is made up of which material?",
+  "answer": "0.17 x 0.25 TMA wire",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3827__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3827",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man with a history of Keshan disease is found to have a deficiency in selenoproteins, which are crucial for antioxidant defense mechanisms. His physician explains that these proteins contain a unique amino acid, selenocysteine, which is incorporated into the growing polypeptide chain during translation through a specialized mechanism involving a specific codon that is normally read as a stop signal in most contexts. What is the codon that specifies selenocysteine incorporation?",
+  "answer": "UGA",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3827__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3827",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man with a history of Keshan disease is found to have a deficiency in selenoproteins, which are crucial for antioxidant defense mechanisms. His physician explains that these proteins contain a unique amino acid, selenocysteine, which is incorporated into the growing polypeptide chain during translation through a specialized mechanism involving a specific codon that is normally read as a stop signal in most contexts. What is the codon that specifies selenocysteine incorporation?",
+  "answer": "UAG",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2970__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2970",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old man presents to the dental clinic with severe throbbing pain in his lower right molar that began 3 days ago. He reports a history of an untreated deep carious lesion in the same tooth for several months. Clinical examination reveals extensive decay approaching the pulp chamber, and the tooth is extremely tender to percussion. Radiographic imaging shows a radiolucent area extending deep into the dentin with possible pulpal involvement. Which of the following is the most important factor contributing to the rapid progression of bacteria that results in pulpal necrosis in this patient?",
+  "answer": "Pulp vitality",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2970__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2970",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old man presents to the dental clinic with severe throbbing pain in his lower right molar that began 3 days ago. He reports a history of an untreated deep carious lesion in the same tooth for several months. Clinical examination reveals extensive decay approaching the pulp chamber, and the tooth is extremely tender to percussion. Radiographic imaging shows a radiolucent area extending deep into the dentin with possible pulpal involvement. Which of the following is the most important factor contributing to the rapid progression of bacteria that results in pulpal necrosis in this patient?",
+  "answer": "Dentinal Fluid flow",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_544__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_544",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 6-month-old infant is brought to the pediatrician for a routine well-child visit. During the physical examination, the physician measures the infant's head circumference and notes the maximal width and length of the skull. The calculated cephalic index is found to be greater than 80%. This finding is most consistent with which of the following cranial shape classifications?",
+  "answer": "Brachycephalic",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_544__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_544",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 6-month-old infant is brought to the pediatrician for a routine well-child visit. During the physical examination, the physician measures the infant's head circumference and notes the maximal width and length of the skull. The calculated cephalic index is found to be greater than 80%. This finding is most consistent with which of the following cranial shape classifications?",
+  "answer": "Dolicocephalic",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2247__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2247",
+  "register": "textbook",
+  "label": 1,
+  "question": "A public health official is designing a comprehensive community wellness program and reviewing the core components that should be included. The program aims to address multiple aspects of population health through various interventions. While planning the curriculum, the official wants to ensure all essential elements of health education are incorporated. Which of the following is NOT considered a component of health education?",
+  "answer": "Development of reflexive behavior",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2247__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2247",
+  "register": "textbook",
+  "label": 0,
+  "question": "A public health official is designing a comprehensive community wellness program and reviewing the core components that should be included. The program aims to address multiple aspects of population health through various interventions. While planning the curriculum, the official wants to ensure all essential elements of health education are incorporated. Which of the following is NOT considered a component of health education?",
+  "answer": "Positive instilled behaviour",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3230__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3230",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 35-year-old woman presents to the dental clinic for continuation of root canal therapy on her lower first molar. The endodontist has completed initial canal preparation during the previous visit and now needs to ensure the endodontic files are properly maintained between treatment sessions. What is the appropriate method for cleaning the files in between endodontic treatment?",
+  "answer": "Gauze soaked in hypochlorite solution",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3230__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3230",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 35-year-old woman presents to the dental clinic for continuation of root canal therapy on her lower first molar. The endodontist has completed initial canal preparation during the previous visit and now needs to ensure the endodontic files are properly maintained between treatment sessions. What is the appropriate method for cleaning the files in between endodontic treatment?",
+  "answer": "Chlorhexidine",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3704__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3704",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman participates in a research study examining salivary composition under different physiological conditions. Samples are collected both at rest and after gustatory stimulation with citric acid. When comparing the stimulated saliva sample to the unstimulated baseline sample, the stimulated saliva is expected to have more",
+  "answer": "Bicarbonate",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3704__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3704",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman participates in a research study examining salivary composition under different physiological conditions. Samples are collected both at rest and after gustatory stimulation with citric acid. When comparing the stimulated saliva sample to the unstimulated baseline sample, the stimulated saliva is expected to have more",
+  "answer": "H",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1839__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1839",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 58-year-old man with metastatic melanoma is enrolled in a clinical trial evaluating a novel drug combination consisting of chemotherapy and immunotherapy. After completion of the trial, analysis demonstrates that patients receiving this combination have statistically significant prolongation of survival compared to standard therapy. Which of the following is true in this situation?",
+  "answer": "Incidence remains the same and prevalence increases",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1839__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1839",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 58-year-old man with metastatic melanoma is enrolled in a clinical trial evaluating a novel drug combination consisting of chemotherapy and immunotherapy. After completion of the trial, analysis demonstrates that patients receiving this combination have statistically significant prolongation of survival compared to standard therapy. Which of the following is true in this situation?",
+  "answer": "Incidence reduces and prevalence increases",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3163__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3163",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 30-year-old man presents to the emergency department with severe dyspnea that has progressively worsened over the past several months. Physical examination reveals a diastolic rumble best heard at the apex with an opening snap. Echocardiography demonstrates mitral stenosis with significant left atrial enlargement. A mitral valve biopsy is performed, and histopathology shows fibrous thickening of the valve leaflets with commissural fusion and neovascularization. What is the most likely diagnosis?",
+  "answer": "Rheumatic hea disease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3163__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3163",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 30-year-old man presents to the emergency department with severe dyspnea that has progressively worsened over the past several months. Physical examination reveals a diastolic rumble best heard at the apex with an opening snap. Echocardiography demonstrates mitral stenosis with significant left atrial enlargement. A mitral valve biopsy is performed, and histopathology shows fibrous thickening of the valve leaflets with commissural fusion and neovascularization. What is the most likely diagnosis?",
+  "answer": "Fungal granuloma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1864__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1864",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man with newly diagnosed pulmonary tuberculosis is started on a standard four-drug anti-tubercular regimen by his physician. Two days later, he returns to the clinic concerned because he has noticed that his urine has turned orange in color. He denies any pain with urination, fever, or other symptoms. Physical examination is unremarkable. Which drug in his regimen is most likely responsible for this change in urine color?",
+  "answer": "Rifampicin",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1864__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1864",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man with newly diagnosed pulmonary tuberculosis is started on a standard four-drug anti-tubercular regimen by his physician. Two days later, he returns to the clinic concerned because he has noticed that his urine has turned orange in color. He denies any pain with urination, fever, or other symptoms. Physical examination is unremarkable. Which drug in his regimen is most likely responsible for this change in urine color?",
+  "answer": "INH",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3367__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3367",
+  "register": "textbook",
+  "label": 1,
+  "question": "A molecular biology laboratory is conducting experiments involving DNA polymerase I from E. coli. During proteolytic cleavage of the enzyme, a large fragment known as the Klenow fragment is generated and retained for use in DNA sequencing applications. The smaller fragment that is removed during this cleavage process possesses which enzymatic activity?",
+  "answer": "5'- 3' exonuclease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3367__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3367",
+  "register": "textbook",
+  "label": 0,
+  "question": "A molecular biology laboratory is conducting experiments involving DNA polymerase I from E. coli. During proteolytic cleavage of the enzyme, a large fragment known as the Klenow fragment is generated and retained for use in DNA sequencing applications. The smaller fragment that is removed during this cleavage process possesses which enzymatic activity?",
+  "answer": "3'- 5' exonuclease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1442__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1442",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 25-year-old patient presents with a painless swelling in the posterior mandible associated with an impacted third molar. Radiographic examination reveals a well-defined radiolucent lesion surrounding the crown of the unerupted tooth. The clinician is considering both a dentigerous cyst and ameloblastoma in the differential diagnosis. What is the most appropriate method to differentiate between these two entities?",
+  "answer": "Microscopic examination",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1442__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1442",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 25-year-old patient presents with a painless swelling in the posterior mandible associated with an impacted third molar. Radiographic examination reveals a well-defined radiolucent lesion surrounding the crown of the unerupted tooth. The clinician is considering both a dentigerous cyst and ameloblastoma in the differential diagnosis. What is the most appropriate method to differentiate between these two entities?",
+  "answer": "Clinical features",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1651__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1651",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents with a 2-month history of progressive dyspnea and nonproductive cough. Chest CT reveals a large peripheral lung mass with mediastinal lymphadenopathy. Biopsy of the mass shows malignant cells that are positive for TTF-1 and negative for squamous markers. Molecular testing is performed to guide targeted therapy. Which of the following neoplasms is most likely to be anaplastic lymphoma kinase (ALK) positive?",
+  "answer": "Inflammatory myofibroblastic tumor",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1651__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1651",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents with a 2-month history of progressive dyspnea and nonproductive cough. Chest CT reveals a large peripheral lung mass with mediastinal lymphadenopathy. Biopsy of the mass shows malignant cells that are positive for TTF-1 and negative for squamous markers. Molecular testing is performed to guide targeted therapy. Which of the following neoplasms is most likely to be anaplastic lymphoma kinase (ALK) positive?",
+  "answer": "Fibromatosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1187__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1187",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 6-month-old infant is brought to the emergency department with severe dehydration. On examination, the child has a weak pulse and unrecordable blood pressure. Multiple attempts at establishing intravenous access have been unsuccessful. What is the next best step in management?",
+  "answer": "Intra osseus I.V. fluids",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1187__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1187",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 6-month-old infant is brought to the emergency department with severe dehydration. On examination, the child has a weak pulse and unrecordable blood pressure. Multiple attempts at establishing intravenous access have been unsuccessful. What is the next best step in management?",
+  "answer": "Try again",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1347__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1347",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 68-year-old man with atrial fibrillation is being managed on warfarin therapy for stroke prevention. His INR has been stable at 2.5 on his current warfarin dose. He presents to clinic for a routine follow-up visit, and you are reviewing potential drug interactions that could affect his anticoagulation status. Which of the following medications, if added to his regimen, would NOT increase his risk of bleeding while on warfarin?",
+  "answer": "Carbamazepine",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1347__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1347",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 68-year-old man with atrial fibrillation is being managed on warfarin therapy for stroke prevention. His INR has been stable at 2.5 on his current warfarin dose. He presents to clinic for a routine follow-up visit, and you are reviewing potential drug interactions that could affect his anticoagulation status. Which of the following medications, if added to his regimen, would NOT increase his risk of bleeding while on warfarin?",
+  "answer": "Cimetidine",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1416__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1416",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old man with a history of recurrent viral infections undergoes immunologic testing. Flow cytometry reveals a severe deficiency in CD3+ cells. A bone marrow biopsy shows normal cellularity with adequate precursor cells. The patient's condition is most likely due to impaired function of cells that play a primary role in which of the following?",
+  "answer": "Production\tof\tlymphokines\tand\tdelayed hypersensitivity",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1416__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1416",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old man with a history of recurrent viral infections undergoes immunologic testing. Flow cytometry reveals a severe deficiency in CD3+ cells. A bone marrow biopsy shows normal cellularity with adequate precursor cells. The patient's condition is most likely due to impaired function of cells that play a primary role in which of the following?",
+  "answer": "Immediate Hypersensitivity",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3862__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3862",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 58-year-old man with a history of hypertension is admitted to the cardiac intensive care unit with acute decompensated heart failure. The cardiology team is discussing hemodynamic parameters to optimize his management and reduce the workload on his left ventricle. Which of the following is the best index to measure cardiac afterload?",
+  "answer": "Total peripheral resistance",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3862__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3862",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 58-year-old man with a history of hypertension is admitted to the cardiac intensive care unit with acute decompensated heart failure. The cardiology team is discussing hemodynamic parameters to optimize his management and reduce the workload on his left ventricle. Which of the following is the best index to measure cardiac afterload?",
+  "answer": "LV end diastolic pressure",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1522__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1522",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 12-year-old patient is undergoing orthodontic treatment for malocclusion. During the treatment planning phase, the orthodontist explains that certain tooth movements will require resistance from other teeth or appliances to prevent unwanted shifts in position. The orthodontist notes that for the planned procedure, no counter-balancing force or stabilization from adjacent structures will be utilized. What orthodontic principle is NOT being applied in this treatment approach?",
+  "answer": "Stationary",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1522__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1522",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 12-year-old patient is undergoing orthodontic treatment for malocclusion. During the treatment planning phase, the orthodontist explains that certain tooth movements will require resistance from other teeth or appliances to prevent unwanted shifts in position. The orthodontist notes that for the planned procedure, no counter-balancing force or stabilization from adjacent structures will be utilized. What orthodontic principle is NOT being applied in this treatment approach?",
+  "answer": "Intraoral",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3705__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3705",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 68-year-old postmenopausal woman presents to her primary care physician for evaluation of bone health. She has a history of early menopause at age 45 and a maternal history of hip fracture. Dual-energy X-ray absorptiometry (DEXA) scan reveals a T-score of -2.8 at the lumbar spine. The physician discusses various aspects of osteoporosis with the patient. All of the following statements regarding osteoporosis are true EXCEPT:",
+  "answer": "T-score <1.5 in osteoporosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3705__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3705",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 68-year-old postmenopausal woman presents to her primary care physician for evaluation of bone health. She has a history of early menopause at age 45 and a maternal history of hip fracture. Dual-energy X-ray absorptiometry (DEXA) scan reveals a T-score of -2.8 at the lumbar spine. The physician discusses various aspects of osteoporosis with the patient. All of the following statements regarding osteoporosis are true EXCEPT:",
+  "answer": "PTH is used in severe osteoporosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3265__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3265",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to the neurology clinic with a 6-month history of progressive muscle weakness and fasciculations in his upper extremities. On physical examination, decreased muscle bulk and hyporeflexia are noted in the bilateral upper limbs. The neurologist orders a diagnostic test that involves inserting needle electrodes into affected muscles to assess their electrical activity both at rest and during voluntary contraction. This test is used to:",
+  "answer": "To study muscle activity",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3265__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3265",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to the neurology clinic with a 6-month history of progressive muscle weakness and fasciculations in his upper extremities. On physical examination, decreased muscle bulk and hyporeflexia are noted in the bilateral upper limbs. The neurologist orders a diagnostic test that involves inserting needle electrodes into affected muscles to assess their electrical activity both at rest and during voluntary contraction. This test is used to:",
+  "answer": "Determine the centric relation",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2165__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2165",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old man presents to the sports medicine clinic for evaluation of his exercise performance. During the initial 10 seconds of high-intensity sprinting, his muscles require immediate energy production to sustain maximal contraction. Which of the following serves as the most rapid source of energy by resynthesizing ATP for his exercising muscles during this brief period of maximal exertion?",
+  "answer": "Glycolysis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2165__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2165",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old man presents to the sports medicine clinic for evaluation of his exercise performance. During the initial 10 seconds of high-intensity sprinting, his muscles require immediate energy production to sustain maximal contraction. Which of the following serves as the most rapid source of energy by resynthesizing ATP for his exercising muscles during this brief period of maximal exertion?",
+  "answer": "Glycogenolysis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1153__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1153",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 35-year-old patient presents to the dental clinic for restoration of a carious molar tooth. The dentist decides to place an amalgam restoration and is reviewing the technical factors that influence the longevity and clinical performance of the restoration. The residual mercury content in a properly prepared amalgam restoration that gives the best clinical service is:",
+  "answer": "48-52%",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1153__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1153",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 35-year-old patient presents to the dental clinic for restoration of a carious molar tooth. The dentist decides to place an amalgam restoration and is reviewing the technical factors that influence the longevity and clinical performance of the restoration. The residual mercury content in a properly prepared amalgam restoration that gives the best clinical service is:",
+  "answer": "58-62%",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_182__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_182",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to the emergency department with progressive chest pain and dyspnea over the past 3 weeks. Chest radiograph reveals a well-defined anterior mediastinal mass. CT scan of the chest confirms a heterogeneous mass in the anterior mediastinum with areas of cystic degeneration. What is the most common type of mediastinal tumor?",
+  "answer": "Neurogenic tumor",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_182__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_182",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to the emergency department with progressive chest pain and dyspnea over the past 3 weeks. Chest radiograph reveals a well-defined anterior mediastinal mass. CT scan of the chest confirms a heterogeneous mass in the anterior mediastinum with areas of cystic degeneration. What is the most common type of mediastinal tumor?",
+  "answer": "Lymphoma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_261__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_261",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man is brought to the emergency department after being found unresponsive in a confined space where he had been restrained in a jack-knife position for several hours. On examination, he is cyanotic and in severe respiratory distress. The most likely mechanism of death in patients maintained in this position for prolonged periods is:",
+  "answer": "Positional asphyxia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_261__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_261",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man is brought to the emergency department after being found unresponsive in a confined space where he had been restrained in a jack-knife position for several hours. On examination, he is cyanotic and in severe respiratory distress. The most likely mechanism of death in patients maintained in this position for prolonged periods is:",
+  "answer": "Burking",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_908__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_908",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 4-year-old girl is brought to the pediatric rheumatology clinic with a 3-month history of joint pain and morning stiffness. Physical examination reveals swelling of both knees and the right wrist. Laboratory studies show elevated inflammatory markers. The pediatrician is considering a diagnosis of Juvenile Idiopathic Arthritis. Which of the following is NOT a feature of Juvenile Idiopathic Arthritis?",
+  "answer": "Raynaud's phenomenon",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_908__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_908",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 4-year-old girl is brought to the pediatric rheumatology clinic with a 3-month history of joint pain and morning stiffness. Physical examination reveals swelling of both knees and the right wrist. Laboratory studies show elevated inflammatory markers. The pediatrician is considering a diagnosis of Juvenile Idiopathic Arthritis. Which of the following is NOT a feature of Juvenile Idiopathic Arthritis?",
+  "answer": "Spikes of high fever",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2000__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2000",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 58-year-old patient is being fitted for a removable partial denture with a mandibular lingual bar major connector. During the design phase, the dentist must determine the appropriate positioning of the connector borders in relation to the gingival tissues to prevent inflammation and maintain periodontal health. The borders of major connectors adjacent to gingival crevices should be positioned no closer to the crevice than what distance?",
+  "answer": "3-6 mm",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2000__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2000",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 58-year-old patient is being fitted for a removable partial denture with a mandibular lingual bar major connector. During the design phase, the dentist must determine the appropriate positioning of the connector borders in relation to the gingival tissues to prevent inflammation and maintain periodontal health. The borders of major connectors adjacent to gingival crevices should be positioned no closer to the crevice than what distance?",
+  "answer": "1-2 mm",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1654__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1654",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man undergoes vitrectomy for retinal detachment repair. During the procedure, samples of both vitreous humor and blood are collected for biochemical analysis. When comparing the composition of vitreous humor to that of blood, which of the following substances would be expected to be present in higher concentration in the vitreous humor?",
+  "answer": "Ascorbate",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1654__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1654",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man undergoes vitrectomy for retinal detachment repair. During the procedure, samples of both vitreous humor and blood are collected for biochemical analysis. When comparing the composition of vitreous humor to that of blood, which of the following substances would be expected to be present in higher concentration in the vitreous humor?",
+  "answer": "Potassium",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1298__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1298",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman presents to your dental clinic for restoration of her maxillary central incisor. After examining the tooth, you determine that a porcelain inlay is the most appropriate treatment option. Given the anterior location and esthetic demands of this restoration, what should be kept in mind when preparing the facial surface for this porcelain inlay?",
+  "answer": "Facial surface should be perpendicular to cavity margins",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1298__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1298",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman presents to your dental clinic for restoration of her maxillary central incisor. After examining the tooth, you determine that a porcelain inlay is the most appropriate treatment option. Given the anterior location and esthetic demands of this restoration, what should be kept in mind when preparing the facial surface for this porcelain inlay?",
+  "answer": "Facial surface should be parallel to cavity margins",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3598__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3598",
+  "register": "textbook",
+  "label": 1,
+  "question": "A medical student is reviewing embryological development during a nephrology lecture. The instructor explains that several adult structures are derived from the mesonephric (Wolffian) duct system in males. The student is asked to identify which of the following structures is NOT derived from the mesonephros?",
+  "answer": "Glomerulus",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3598__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3598",
+  "register": "textbook",
+  "label": 0,
+  "question": "A medical student is reviewing embryological development during a nephrology lecture. The instructor explains that several adult structures are derived from the mesonephric (Wolffian) duct system in males. The student is asked to identify which of the following structures is NOT derived from the mesonephros?",
+  "answer": "Paroophoron",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1436__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1436",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old man from rural Mexico presents to the emergency department with new-onset seizures and headaches over the past 2 weeks. MRI of the brain reveals multiple cystic lesions with scolices, consistent with neurocysticercosis. Which of the following is the most common location of these intracranial neurocysticercosis lesions?",
+  "answer": "Brain parenchyma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1436__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1436",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old man from rural Mexico presents to the emergency department with new-onset seizures and headaches over the past 2 weeks. MRI of the brain reveals multiple cystic lesions with scolices, consistent with neurocysticercosis. Which of the following is the most common location of these intracranial neurocysticercosis lesions?",
+  "answer": "Spinal cord.",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3422__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3422",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old agricultural worker presents to the clinic with complaints that began approximately 1 week after working barefoot in soil. He reports an initial pruritic rash on his feet that has since resolved, but now experiences a new set of symptoms. On further questioning, he mentions recent travel to a rural area with poor sanitation. Given that certain helminthic infections such as Ancylostoma, Strongyloides, and Ascaris undergo a larval migration phase through the lungs during their life cycle, which of the following is the most common systemic symptom associated with this migratory phase?",
+  "answer": "Asymptomatic",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3422__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3422",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old agricultural worker presents to the clinic with complaints that began approximately 1 week after working barefoot in soil. He reports an initial pruritic rash on his feet that has since resolved, but now experiences a new set of symptoms. On further questioning, he mentions recent travel to a rural area with poor sanitation. Given that certain helminthic infections such as Ancylostoma, Strongyloides, and Ascaris undergo a larval migration phase through the lungs during their life cycle, which of the following is the most common systemic symptom associated with this migratory phase?",
+  "answer": "Pneumonitis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_20__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_20",
+  "register": "textbook",
+  "label": 1,
+  "question": "A medical student is reviewing the mechanisms of oxygen transport and delivery during a hematology lecture. The instructor explains that 2,3-bisphosphoglycerate (2,3-BPG) is an important regulator of hemoglobin's oxygen-binding properties. The student learns that when 2,3-BPG binds to specific sites on the hemoglobin molecule, it causes a conformational change. This binding of 2,3-BPG to hemoglobin results in what change in the affinity for oxygen?",
+  "answer": "1, decreases",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_20__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_20",
+  "register": "textbook",
+  "label": 0,
+  "question": "A medical student is reviewing the mechanisms of oxygen transport and delivery during a hematology lecture. The instructor explains that 2,3-bisphosphoglycerate (2,3-BPG) is an important regulator of hemoglobin's oxygen-binding properties. The student learns that when 2,3-BPG binds to specific sites on the hemoglobin molecule, it causes a conformational change. This binding of 2,3-BPG to hemoglobin results in what change in the affinity for oxygen?",
+  "answer": "4, decreases",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2642__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2642",
+  "register": "textbook",
+  "label": 1,
+  "question": "A patient undergoes serum chemistry analysis. Laboratory results reveal a pCO2 of 30 mm Hg, pO2 of 105 mm Hg, and pH of 7.46. This profile indicates which of the following acid-base disturbances?",
+  "answer": "Respiratory alkalosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2642__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2642",
+  "register": "textbook",
+  "label": 0,
+  "question": "A patient undergoes serum chemistry analysis. Laboratory results reveal a pCO2 of 30 mm Hg, pO2 of 105 mm Hg, and pH of 7.46. This profile indicates which of the following acid-base disturbances?",
+  "answer": "Metabolic acidosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3082__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3082",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 9-year-old boy undergoes a pulpotomy procedure on his permanent first molar using mineral trioxide aggregate (MTA). Six months later, his parents express concern about grey discoloration of the clinical crown. The dentist explains that this discoloration is related to bismuth oxide in the original MTA formulation. In newer MTA formulations designed to prevent this aesthetic complication, bismuth oxide has been replaced with which radiopacifying agent?",
+  "answer": "Tantalam Oxide",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3082__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3082",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 9-year-old boy undergoes a pulpotomy procedure on his permanent first molar using mineral trioxide aggregate (MTA). Six months later, his parents express concern about grey discoloration of the clinical crown. The dentist explains that this discoloration is related to bismuth oxide in the original MTA formulation. In newer MTA formulations designed to prevent this aesthetic complication, bismuth oxide has been replaced with which radiopacifying agent?",
+  "answer": "Titanium Oxide",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2345__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2345",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old G2P1 woman at 39 weeks gestation presents to the labor and delivery unit in active labor. During delivery, shoulder dystocia occurs and the obstetrician performs the McRoberts maneuver, which involves sudden hyperflexion of the maternal thighs over the abdomen. Following this intervention, the baby is successfully delivered. However, the mother subsequently develops lower extremity neurological symptoms. Which of the following nerves is most commonly injured by this maneuver?",
+  "answer": "Lateral cutaneous Nerve of thigh",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2345__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2345",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old G2P1 woman at 39 weeks gestation presents to the labor and delivery unit in active labor. During delivery, shoulder dystocia occurs and the obstetrician performs the McRoberts maneuver, which involves sudden hyperflexion of the maternal thighs over the abdomen. Following this intervention, the baby is successfully delivered. However, the mother subsequently develops lower extremity neurological symptoms. Which of the following nerves is most commonly injured by this maneuver?",
+  "answer": "Lumbosacral trunk",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_271__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_271",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 55-year-old man with a history of diabetes mellitus presents to the clinic with a 2-3 day history of transient episodes of vision obscuration, followed by sudden complete loss of vision in one eye that occurred earlier today. He denies eye pain, headache, or recent trauma. Which of the following would be the best test to evaluate his symptoms?",
+  "answer": "Serum creatinine levels",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_271__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_271",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 55-year-old man with a history of diabetes mellitus presents to the clinic with a 2-3 day history of transient episodes of vision obscuration, followed by sudden complete loss of vision in one eye that occurred earlier today. He denies eye pain, headache, or recent trauma. Which of the following would be the best test to evaluate his symptoms?",
+  "answer": "Elevated homocysteine levels",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3820__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3820",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 25-year-old woman with rheumatoid arthritis currently on treatment presents for routine follow-up. Laboratory studies reveal hemoglobin of 9 g/dL, mean corpuscular volume (MCV) of 55 fL, serum iron of 30 \u03bcg/dL, serum ferritin of 200 ng/mL, and total iron-binding capacity (TIBC) of 298 \u03bcg/dL. What is the most probable diagnosis?",
+  "answer": "Anemia of chronic disease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3820__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3820",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 25-year-old woman with rheumatoid arthritis currently on treatment presents for routine follow-up. Laboratory studies reveal hemoglobin of 9 g/dL, mean corpuscular volume (MCV) of 55 fL, serum iron of 30 \u03bcg/dL, serum ferritin of 200 ng/mL, and total iron-binding capacity (TIBC) of 298 \u03bcg/dL. What is the most probable diagnosis?",
+  "answer": "Thalassemia minor",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2130__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2130",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 9-year-old patient presents to your orthodontic clinic for management of a deep overbite. You decide to fabricate an anterior bite plate as part of the treatment plan. During the trimming and adjustment phase of the appliance fabrication, the anterior bite plate should be trimmed so that",
+  "answer": "Posterior teeth are 2 mm apart",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2130__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2130",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 9-year-old patient presents to your orthodontic clinic for management of a deep overbite. You decide to fabricate an anterior bite plate as part of the treatment plan. During the trimming and adjustment phase of the appliance fabrication, the anterior bite plate should be trimmed so that",
+  "answer": "Posterior teeth are 5 mm apart",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3261__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3261",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 56-year-old patient presents to the emergency department with a history of massive hemoptysis. Routine laboratory investigations and chest X-ray are within normal limits. Which of the following is NOT an appropriate intervention to prevent recurrent hemoptysis in this patient?",
+  "answer": "Lobectomy of the affected segment",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3261__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3261",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 56-year-old patient presents to the emergency department with a history of massive hemoptysis. Routine laboratory investigations and chest X-ray are within normal limits. Which of the following is NOT an appropriate intervention to prevent recurrent hemoptysis in this patient?",
+  "answer": "Bronchial aery embolization",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1334__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1334",
+  "register": "textbook",
+  "label": 1,
+  "question": "A medical student is designing a research study to investigate the prevalence of hypertension and its associated risk factors in a community. The student plans to collect data from all participants at a single point in time, measuring both the presence of hypertension and potential risk factors such as obesity, smoking status, and family history simultaneously. What type of study design is being described?",
+  "answer": "Different individuals of different age groups",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1334__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1334",
+  "register": "textbook",
+  "label": 0,
+  "question": "A medical student is designing a research study to investigate the prevalence of hypertension and its associated risk factors in a community. The student plans to collect data from all participants at a single point in time, measuring both the presence of hypertension and potential risk factors such as obesity, smoking status, and family history simultaneously. What type of study design is being described?",
+  "answer": "Same individuals but of same age",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1248__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1248",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old patient presents to the prosthodontics clinic for evaluation of new complete dentures that were fabricated 2 weeks ago. The patient reports difficulty with speech and an uncomfortable feeling that the teeth are 'too long.' Clinical examination reveals that the vertical dimension of occlusion (VDO) was set higher than the patient's physiologic rest position during denture fabrication. What is the most likely consequence of this increased vertical dimension of occlusion?",
+  "answer": "All of the above",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1248__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1248",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old patient presents to the prosthodontics clinic for evaluation of new complete dentures that were fabricated 2 weeks ago. The patient reports difficulty with speech and an uncomfortable feeling that the teeth are 'too long.' Clinical examination reveals that the vertical dimension of occlusion (VDO) was set higher than the patient's physiologic rest position during denture fabrication. What is the most likely consequence of this increased vertical dimension of occlusion?",
+  "answer": "Trauma to underlying tissues",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1036__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1036",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to the prosthodontics clinic for fabrication of a removable partial denture. During the laboratory phase, the dental technician pours the final impression and notices that the resulting cast exhibits glossy, smooth margins in several areas. This appearance of the cast margins is most likely due to:",
+  "answer": "Incomplete wax elimination",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1036__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1036",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to the prosthodontics clinic for fabrication of a removable partial denture. During the laboratory phase, the dental technician pours the final impression and notices that the resulting cast exhibits glossy, smooth margins in several areas. This appearance of the cast margins is most likely due to:",
+  "answer": "Investment breakdown",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3417__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3417",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 27-year-old woman, gravida 1 para 0, is diagnosed with pregnancy-induced hypertension at 32 weeks of gestation. Her blood pressure is 150/100 mm Hg at the time of diagnosis, but no other complications are noted. She is started on antihypertensive therapy, and her blood pressure is successfully controlled with treatment. Assuming no further complications develop during the remainder of her pregnancy, at what gestational age should delivery be planned?",
+  "answer": "37 completed weeks",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3417__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3417",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 27-year-old woman, gravida 1 para 0, is diagnosed with pregnancy-induced hypertension at 32 weeks of gestation. Her blood pressure is 150/100 mm Hg at the time of diagnosis, but no other complications are noted. She is started on antihypertensive therapy, and her blood pressure is successfully controlled with treatment. Assuming no further complications develop during the remainder of her pregnancy, at what gestational age should delivery be planned?",
+  "answer": "40 completed weeks",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1607__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1607",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man from a rural endemic area presents to the clinic with hypopigmented skin patches and loss of sensation over his extremities. The physician suspects Hansen's disease and is considering various diagnostic tests. The lepromin test is performed as part of the workup. This test is most useful for which of the following purposes?",
+  "answer": "Prognosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1607__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1607",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man from a rural endemic area presents to the clinic with hypopigmented skin patches and loss of sensation over his extremities. The physician suspects Hansen's disease and is considering various diagnostic tests. The lepromin test is performed as part of the workup. This test is most useful for which of the following purposes?",
+  "answer": "Epidemiology",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2553__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2553",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 58-year-old man presents to the emergency department with progressive yellowing of his skin and eyes over the past 3 weeks. Physical examination reveals scleral icterus and jaundice. Abdominal ultrasound shows dilated intrahepatic and extrahepatic bile ducts. Laboratory studies reveal a total bilirubin level of 40 mg/dL. What is the most likely explanation for this markedly elevated bilirubin level in the setting of obstructive jaundice?",
+  "answer": "Renal failure",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2553__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2553",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 58-year-old man presents to the emergency department with progressive yellowing of his skin and eyes over the past 3 weeks. Physical examination reveals scleral icterus and jaundice. Abdominal ultrasound shows dilated intrahepatic and extrahepatic bile ducts. Laboratory studies reveal a total bilirubin level of 40 mg/dL. What is the most likely explanation for this markedly elevated bilirubin level in the setting of obstructive jaundice?",
+  "answer": "Complete obstruction of common bile duct",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1009__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1009",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man is brought to the emergency department with progressive shortness of breath over the past 2 days. The physician is evaluating him for possible respiratory insufficiency and reviews the clinical signs that would support this diagnosis. All of the following are signs of respiratory insufficiency EXCEPT:",
+  "answer": "All of the above",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1009__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1009",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man is brought to the emergency department with progressive shortness of breath over the past 2 days. The physician is evaluating him for possible respiratory insufficiency and reviews the clinical signs that would support this diagnosis. All of the following are signs of respiratory insufficiency EXCEPT:",
+  "answer": "Inability to speak",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1449__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1449",
+  "register": "textbook",
+  "label": 1,
+  "question": "A research team is developing a novel vaccine aimed at preventing dental caries by targeting Streptococcus mutans colonization on tooth surfaces. The vaccine is designed to elicit a mucosal immune response at the site where the pathogen first adheres. Which immunoglobulin would be the primary basis for this anticaries vaccine?",
+  "answer": "IgA",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1449__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1449",
+  "register": "textbook",
+  "label": 0,
+  "question": "A research team is developing a novel vaccine aimed at preventing dental caries by targeting Streptococcus mutans colonization on tooth surfaces. The vaccine is designed to elicit a mucosal immune response at the site where the pathogen first adheres. Which immunoglobulin would be the primary basis for this anticaries vaccine?",
+  "answer": "IgG",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3484__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3484",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man undergoes routine imaging of the spine as part of a pre-employment physical examination. The radiologist is reviewing the lumbar spine films and identifying normal anatomical structures. Which of the following features is normally seen in the lumbar spine?",
+  "answer": "Lordosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3484__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3484",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man undergoes routine imaging of the spine as part of a pre-employment physical examination. The radiologist is reviewing the lumbar spine films and identifying normal anatomical structures. Which of the following features is normally seen in the lumbar spine?",
+  "answer": "Scoliosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1601__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1601",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 7-year-old girl is brought to the pediatrician for evaluation of multiple caf\u00e9-au-lait macules and early-onset puberty. Physical examination reveals polyostotic fibrous dysplasia affecting several bones, and laboratory studies show elevated serum phosphate levels with normal parathyroid hormone. Genetic testing is ordered to confirm the suspected diagnosis. A mutation in which of the following genes is most likely associated with this patient's condition?",
+  "answer": "Fibrous dysplasia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1601__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1601",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 7-year-old girl is brought to the pediatrician for evaluation of multiple caf\u00e9-au-lait macules and early-onset puberty. Physical examination reveals polyostotic fibrous dysplasia affecting several bones, and laboratory studies show elevated serum phosphate levels with normal parathyroid hormone. Genetic testing is ordered to confirm the suspected diagnosis. A mutation in which of the following genes is most likely associated with this patient's condition?",
+  "answer": "Cleidocranial dysplasia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2902__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2902",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old woman presents to the emergency department on postpartum day 3 with fever, tachycardia, and a witnessed generalized tonic-clonic seizure. She had an uncomplicated normal vaginal delivery and was discharged home on postpartum day 2 without any issues. On physical examination, her vital signs show temperature of 38.9\u00b0C (102\u00b0F), heart rate of 118/min, and blood pressure of 142/88 mmHg. Fundoscopic examination reveals bilateral papilledema, but neurological examination shows no focal deficits. What is the most likely diagnosis?",
+  "answer": "Coical vein thrombosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2902__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2902",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old woman presents to the emergency department on postpartum day 3 with fever, tachycardia, and a witnessed generalized tonic-clonic seizure. She had an uncomplicated normal vaginal delivery and was discharged home on postpartum day 2 without any issues. On physical examination, her vital signs show temperature of 38.9\u00b0C (102\u00b0F), heart rate of 118/min, and blood pressure of 142/88 mmHg. Fundoscopic examination reveals bilateral papilledema, but neurological examination shows no focal deficits. What is the most likely diagnosis?",
+  "answer": "Subarachnoid hemorrhage",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_781__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_781",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old patient undergoes periodontal surgery for treatment of advanced periodontitis. During the procedure, the surgeon notes the presence of craters in the interseptal bone between adjacent teeth. To restore a more physiologic bone architecture and improve long-term periodontal stability, these craters are best eliminated by which of the following techniques?",
+  "answer": "Osseous recontouring",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_781__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_781",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old patient undergoes periodontal surgery for treatment of advanced periodontitis. During the procedure, the surgeon notes the presence of craters in the interseptal bone between adjacent teeth. To restore a more physiologic bone architecture and improve long-term periodontal stability, these craters are best eliminated by which of the following techniques?",
+  "answer": "Gingivectomy",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_789__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_789",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 7-year-old boy is brought to the dentist for a routine examination. During the appointment, the dentist explains the microscopic anatomy of developing teeth to a dental student observing the procedure. The dentist describes specialized collagen fibers that originate from the dental papilla and extend between odontoblasts into the predentin matrix, serving as a scaffold for dentin formation. These fibers are characteristic of which anatomical structure?",
+  "answer": "Mantle dentin",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_789__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_789",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 7-year-old boy is brought to the dentist for a routine examination. During the appointment, the dentist explains the microscopic anatomy of developing teeth to a dental student observing the procedure. The dentist describes specialized collagen fibers that originate from the dental papilla and extend between odontoblasts into the predentin matrix, serving as a scaffold for dentin formation. These fibers are characteristic of which anatomical structure?",
+  "answer": "Secondary dentin",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2935__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2935",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman presents to the orthodontic clinic for evaluation of malocclusion. Clinical examination reveals that her maxillary and mandibular incisors meet at an increased vertical overlap, with the lower incisors contacting the palatal mucosa behind the upper incisors. Cephalometric analysis shows an increased angle between the mandibular plane and the Frankfort horizontal plane. This patient's skeletal pattern is best classified as which of the following?",
+  "answer": "FMP > 35\u00b0",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2935__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2935",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman presents to the orthodontic clinic for evaluation of malocclusion. Clinical examination reveals that her maxillary and mandibular incisors meet at an increased vertical overlap, with the lower incisors contacting the palatal mucosa behind the upper incisors. Cephalometric analysis shows an increased angle between the mandibular plane and the Frankfort horizontal plane. This patient's skeletal pattern is best classified as which of the following?",
+  "answer": "FMIA > 65",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_415__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_415",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 6-year-old boy is brought to the physician for evaluation of progressive neurological decline and hepatosplenomegaly. Laboratory studies show elevated levels of a particular sphingolipid in his tissues. A biopsy reveals accumulation of lipid-laden macrophages. The physician explains to the family that the accumulated lipid is composed of a sphingosine backbone linked to a fatty acid via an amide bond. This molecule serves as a precursor for more complex sphingolipids and plays important roles in cell signaling and apoptosis. The lipid being described is:",
+  "answer": "Simple lipid",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_415__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_415",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 6-year-old boy is brought to the physician for evaluation of progressive neurological decline and hepatosplenomegaly. Laboratory studies show elevated levels of a particular sphingolipid in his tissues. A biopsy reveals accumulation of lipid-laden macrophages. The physician explains to the family that the accumulated lipid is composed of a sphingosine backbone linked to a fatty acid via an amide bond. This molecule serves as a precursor for more complex sphingolipids and plays important roles in cell signaling and apoptosis. The lipid being described is:",
+  "answer": "Precursor lipid",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_760__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_760",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old woman presents to the dental clinic for endodontic treatment of her maxillary central incisor. During access cavity preparation, the dentist inadvertently creates a perforation on the labial surface of the tooth just coronal to the cementoenamel junction. What is the most likely reason for this complication?",
+  "answer": "Inability to assess the lingual inclination of crown to root",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_760__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_760",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old woman presents to the dental clinic for endodontic treatment of her maxillary central incisor. During access cavity preparation, the dentist inadvertently creates a perforation on the labial surface of the tooth just coronal to the cementoenamel junction. What is the most likely reason for this complication?",
+  "answer": "None of the above",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_605__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_605",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 16-year-old girl is brought to the clinic for evaluation of primary amenorrhea. Her mother reports that breast development began at age 12. Two years ago, another physician prescribed oral contraceptive pills, but there was no menstrual response. The patient has normal stature and is an active football player. Physical examination reveals well-developed breasts consistent with Tanner stage 5, but pubic hair is minimal and consistent with Tanner stage 1. What is the most likely diagnosis?",
+  "answer": "Androgen insensitivity",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_605__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_605",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 16-year-old girl is brought to the clinic for evaluation of primary amenorrhea. Her mother reports that breast development began at age 12. Two years ago, another physician prescribed oral contraceptive pills, but there was no menstrual response. The patient has normal stature and is an active football player. Physical examination reveals well-developed breasts consistent with Tanner stage 5, but pubic hair is minimal and consistent with Tanner stage 1. What is the most likely diagnosis?",
+  "answer": "Miillerian agenesis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3837__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3837",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 14-year-old boy is brought to the clinic by his mother who is concerned about dark spots around his mouth that have been present since childhood. Physical examination reveals multiple brown-black macules on the lips and perioral skin, as well as similar lesions on the buccal mucosa. The patient also reports intermittent episodes of crampy abdominal pain over the past year. This mucocutaneous circumoral pigmentation pattern is characteristically found in which of the following conditions?",
+  "answer": "Peutz-Jeghers syndrome",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3837__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3837",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 14-year-old boy is brought to the clinic by his mother who is concerned about dark spots around his mouth that have been present since childhood. Physical examination reveals multiple brown-black macules on the lips and perioral skin, as well as similar lesions on the buccal mucosa. The patient also reports intermittent episodes of crampy abdominal pain over the past year. This mucocutaneous circumoral pigmentation pattern is characteristically found in which of the following conditions?",
+  "answer": "Lead poisoning",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_824__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_824",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 12-year-old patient presents to the dental clinic for a routine examination. During the clinical examination and review of panoramic radiographs, the dentist notes the congenital absence of a permanent tooth. Which tooth is most commonly missing in cases of congenital absence?",
+  "answer": "Lower 3rd molar",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_824__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_824",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 12-year-old patient presents to the dental clinic for a routine examination. During the clinical examination and review of panoramic radiographs, the dentist notes the congenital absence of a permanent tooth. Which tooth is most commonly missing in cases of congenital absence?",
+  "answer": "Upper 3rd molar",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1856__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1856",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 25-year-old medical student is studying the electrophysiology of peripheral nerves in the laboratory. During an experiment, she stimulates a myelinated axon and records the resulting electrical activity as it travels along the nerve fiber. Which of the following is TRUE about propagated nerve action potential?",
+  "answer": "Not affected by hypoxia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1856__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1856",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 25-year-old medical student is studying the electrophysiology of peripheral nerves in the laboratory. During an experiment, she stimulates a myelinated axon and records the resulting electrical activity as it travels along the nerve fiber. Which of the following is TRUE about propagated nerve action potential?",
+  "answer": "Fastest in C fibers",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2207__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2207",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 14-year-old girl who is a victim of sexual assault presents to the hospital. She is found to be at 22 weeks of gestation. All of the following management options can be offered to her except:",
+  "answer": "Gynecologist can abo the fetus upon the patient request",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2207__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2207",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 14-year-old girl who is a victim of sexual assault presents to the hospital. She is found to be at 22 weeks of gestation. All of the following management options can be offered to her except:",
+  "answer": "Male doctor can examine her with female attendant",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3103__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3103",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old man is brought to the emergency department following a motor vehicle collision. Imaging reveals a brainstem injury affecting the region responsible for integrating cardiovascular, respiratory, and gastrointestinal autonomic functions. Which of the following structures serves as the primary center of activity for the autonomic nervous system?",
+  "answer": "Hypothalamus",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3103__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3103",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old man is brought to the emergency department following a motor vehicle collision. Imaging reveals a brainstem injury affecting the region responsible for integrating cardiovascular, respiratory, and gastrointestinal autonomic functions. Which of the following structures serves as the primary center of activity for the autonomic nervous system?",
+  "answer": "Pons",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1608__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1608",
+  "register": "textbook",
+  "label": 1,
+  "question": "A medical researcher is conducting a study comparing the mean blood pressure reduction between two different antihypertensive medications in a sample of patients with essential hypertension. After collecting and analyzing the data, she wants to determine whether the observed difference in mean blood pressure reduction between the two treatment groups is likely due to a true effect of the medications or simply due to random variation in the sample. Which statistical test would indicate the probability that the observed difference between the two means occurred by chance alone?",
+  "answer": "Tests of significance",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1608__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1608",
+  "register": "textbook",
+  "label": 0,
+  "question": "A medical researcher is conducting a study comparing the mean blood pressure reduction between two different antihypertensive medications in a sample of patients with essential hypertension. After collecting and analyzing the data, she wants to determine whether the observed difference in mean blood pressure reduction between the two treatment groups is likely due to a true effect of the medications or simply due to random variation in the sample. Which statistical test would indicate the probability that the observed difference between the two means occurred by chance alone?",
+  "answer": "Means",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_659__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_659",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman in her first trimester of pregnancy is concerned about potential teratogenic effects after being exposed to therapeutic radiation during a medical procedure. She asks her obstetrician about which developmental structures derived from the embryonic germ layers are most susceptible to radiation-induced damage. Radiation affects all three germ layers (ectoderm, mesoderm, and endoderm) in which of the following?",
+  "answer": "Teratoid cyst",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_659__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_659",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman in her first trimester of pregnancy is concerned about potential teratogenic effects after being exposed to therapeutic radiation during a medical procedure. She asks her obstetrician about which developmental structures derived from the embryonic germ layers are most susceptible to radiation-induced damage. Radiation affects all three germ layers (ectoderm, mesoderm, and endoderm) in which of the following?",
+  "answer": "Thyroglossal cyst",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2763__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2763",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old patient is scheduled for lower extremity surgery. The surgeon decides to proceed with epidural anesthesia and administers 3% xylocaine with adrenaline into the epidural space. Three minutes after administration, the patient suddenly develops hypotension with a blood pressure of 85/50 mmHg. What is the most likely cause of this patient's hypotension?",
+  "answer": "Penetration into the subarachnoid space",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2763__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2763",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old patient is scheduled for lower extremity surgery. The surgeon decides to proceed with epidural anesthesia and administers 3% xylocaine with adrenaline into the epidural space. Three minutes after administration, the patient suddenly develops hypotension with a blood pressure of 85/50 mmHg. What is the most likely cause of this patient's hypotension?",
+  "answer": "Allergy to the drug preparation",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_419__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_419",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 28-year-old man presents to the dental clinic with pain and swelling in the lower jaw for the past 2 weeks. An intraoral periapical (IOPA) radiograph is obtained and reveals a well-defined radiolucent area with a characteristic halo effect surrounding the root of the affected tooth. Which of the following conditions is most likely responsible for this radiographic finding?",
+  "answer": "Periapical-periostitis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_419__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_419",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 28-year-old man presents to the dental clinic with pain and swelling in the lower jaw for the past 2 weeks. An intraoral periapical (IOPA) radiograph is obtained and reveals a well-defined radiolucent area with a characteristic halo effect surrounding the root of the affected tooth. Which of the following conditions is most likely responsible for this radiographic finding?",
+  "answer": "Horizontal root fracture",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_486__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_486",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman is scheduled to undergo a cosmetic surgical procedure requiring access to the temporal region. The surgeon plans to make an incision that will be concealed within the hairline and oriented at a 45-degree angle to the zygomatic arch to optimize both exposure and aesthetic outcome. What is the name of this surgical incision?",
+  "answer": "Gillis temporal",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_486__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_486",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman is scheduled to undergo a cosmetic surgical procedure requiring access to the temporal region. The surgeon plans to make an incision that will be concealed within the hairline and oriented at a 45-degree angle to the zygomatic arch to optimize both exposure and aesthetic outcome. What is the name of this surgical incision?",
+  "answer": "Risdon",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4142__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_4142",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to the nephrology clinic for evaluation of proteinuria detected on routine urinalysis. Laboratory studies reveal hypoalbuminemia, hyperlipidemia, and 24-hour urine protein excretion of 4.5 grams. Renal biopsy is performed to determine the underlying cause of his nephrotic syndrome. Which of the following types of glomerulonephritis typically does NOT present with nephrotic syndrome?",
+  "answer": "Post-infectious Glomerulonephritis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4142__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_4142",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to the nephrology clinic for evaluation of proteinuria detected on routine urinalysis. Laboratory studies reveal hypoalbuminemia, hyperlipidemia, and 24-hour urine protein excretion of 4.5 grams. Renal biopsy is performed to determine the underlying cause of his nephrotic syndrome. Which of the following types of glomerulonephritis typically does NOT present with nephrotic syndrome?",
+  "answer": "FSGS",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2133__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2133",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 9-year-old boy presents to the emergency department with fever, migratory polyarthritis, and a new cardiac murmur. Physical examination reveals a mid-diastolic murmur heard best at the apex. The murmur is attributed to acute rheumatic carditis with mitral valvulitis. Which of the following statements regarding the Carey Coombs murmur is FALSE?",
+  "answer": "Can be associated with AR",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2133__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2133",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 9-year-old boy presents to the emergency department with fever, migratory polyarthritis, and a new cardiac murmur. Physical examination reveals a mid-diastolic murmur heard best at the apex. The murmur is attributed to acute rheumatic carditis with mitral valvulitis. Which of the following statements regarding the Carey Coombs murmur is FALSE?",
+  "answer": "Delayed diastole murmur",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_289__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_289",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man is brought to the emergency department after a motor vehicle collision. On examination, he is pale and diaphoretic with cool extremities. His blood pressure is 85/50 mm Hg and heart rate is 125/min. Laboratory studies show hemoglobin of 7.5 g/dL. The trauma team is reviewing potential complications and pathophysiologic responses associated with acute hemorrhage. Which of the following is NOT associated with hemorrhage?",
+  "answer": "Melanosis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_289__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_289",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man is brought to the emergency department after a motor vehicle collision. On examination, he is pale and diaphoretic with cool extremities. His blood pressure is 85/50 mm Hg and heart rate is 125/min. Laboratory studies show hemoglobin of 7.5 g/dL. The trauma team is reviewing potential complications and pathophysiologic responses associated with acute hemorrhage. Which of the following is NOT associated with hemorrhage?",
+  "answer": "Purpura",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4070__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_4070",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman undergoes general anesthesia for an elective cholecystectomy. Within minutes of induction, she develops hypotension, tachycardia, bronchospasm, and diffuse urticaria. The anesthesiologist suspects an immediate allergic reaction in the perioperative period. Which of the following is the most likely mechanism responsible for this patient's presentation?",
+  "answer": "Neuromuscular blockers",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4070__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_4070",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman undergoes general anesthesia for an elective cholecystectomy. Within minutes of induction, she develops hypotension, tachycardia, bronchospasm, and diffuse urticaria. The anesthesiologist suspects an immediate allergic reaction in the perioperative period. Which of the following is the most likely mechanism responsible for this patient's presentation?",
+  "answer": "LA agents",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_61__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_61",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man undergoes imaging of the brain as part of a workup for recurrent headaches. A sagittal T1-weighted MRI is obtained and shows normal anatomical structures. The radiologist points to a midline structure located just posterior to the brainstem and anterior to the occipital bone, which appears as a tent-like fold of dura mater. What is the structure indicated?",
+  "answer": "Secretory vesicles",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_61__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_61",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man undergoes imaging of the brain as part of a workup for recurrent headaches. A sagittal T1-weighted MRI is obtained and shows normal anatomical structures. The radiologist points to a midline structure located just posterior to the brainstem and anterior to the occipital bone, which appears as a tent-like fold of dura mater. What is the structure indicated?",
+  "answer": "Mitochondria",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1711__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1711",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man with AIDS and a CD4 count of 30 cells/\u03bcL is hospitalized with cytomegalovirus retinitis. Due to a prior severe hypersensitivity reaction to ganciclovir, the infectious disease team initiates intravenous foscarnet therapy. The patient is counseled about potential adverse effects associated with this medication. Which of the following is NOT an expected adverse effect of foscarnet?",
+  "answer": "Hyperkalemia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1711__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1711",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man with AIDS and a CD4 count of 30 cells/\u03bcL is hospitalized with cytomegalovirus retinitis. Due to a prior severe hypersensitivity reaction to ganciclovir, the infectious disease team initiates intravenous foscarnet therapy. The patient is counseled about potential adverse effects associated with this medication. Which of the following is NOT an expected adverse effect of foscarnet?",
+  "answer": "Hypokalemia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3383__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3383",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 3-year-old boy is brought to the clinic for evaluation of developmental delay and hypotonia. Genetic testing reveals a diagnosis of Prader-Willi syndrome, which is explained to the parents as a disorder involving genomic imprinting. The physician describes how certain genes are expressed in a parent-of-origin-specific manner due to epigenetic modifications that occur during gametogenesis. In genomic imprinting, DNA is modified by:",
+  "answer": "Methylation",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3383__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3383",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 3-year-old boy is brought to the clinic for evaluation of developmental delay and hypotonia. Genetic testing reveals a diagnosis of Prader-Willi syndrome, which is explained to the parents as a disorder involving genomic imprinting. The physician describes how certain genes are expressed in a parent-of-origin-specific manner due to epigenetic modifications that occur during gametogenesis. In genomic imprinting, DNA is modified by:",
+  "answer": "Phosphorylation",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3579__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3579",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 35-year-old man presents to the emergency department with severe watery diarrhea and vomiting for the past 12 hours after consuming contaminated water during travel to an endemic region. Stool examination reveals comma-shaped, motile gram-negative bacteria, and the patient is diagnosed with cholera. Which of the following statements is NOT true regarding Vibrio cholerae?",
+  "answer": "Gram positive rod",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3579__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3579",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 35-year-old man presents to the emergency department with severe watery diarrhea and vomiting for the past 12 hours after consuming contaminated water during travel to an endemic region. Stool examination reveals comma-shaped, motile gram-negative bacteria, and the patient is diagnosed with cholera. Which of the following statements is NOT true regarding Vibrio cholerae?",
+  "answer": "Activate adenylatecyclase",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3275__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3275",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to the ophthalmology clinic with a 6-month history of progressive difficulty seeing in dim light and a gritty sensation in his eyes. On examination, the conjunctiva appears dry with foamy, triangular patches on the bulbar conjunctiva adjacent to the cornea. What is the name of these conjunctival changes seen in vitamin A deficiency?",
+  "answer": "Hyperkeratosis of squamous epithelium",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3275__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3275",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to the ophthalmology clinic with a 6-month history of progressive difficulty seeing in dim light and a gritty sensation in his eyes. On examination, the conjunctiva appears dry with foamy, triangular patches on the bulbar conjunctiva adjacent to the cornea. What is the name of these conjunctival changes seen in vitamin A deficiency?",
+  "answer": "Hyperplasia of goblet cells",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1156__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1156",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman presents to the emergency department with fever, confusion, and multiple small purple spots on her skin that do not blanch with pressure. Laboratory studies reveal thrombocytopenia and schistocytes on peripheral blood smear. Physical examination shows numerous pinpoint hemorrhages scattered across her extremities and trunk. These petechial hemorrhages are characteristically seen in which of the following conditions?",
+  "answer": "thrombocytopenic purpura",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1156__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1156",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman presents to the emergency department with fever, confusion, and multiple small purple spots on her skin that do not blanch with pressure. Laboratory studies reveal thrombocytopenia and schistocytes on peripheral blood smear. Physical examination shows numerous pinpoint hemorrhages scattered across her extremities and trunk. These petechial hemorrhages are characteristically seen in which of the following conditions?",
+  "answer": "pernicious anemia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_557__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_557",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old sound engineer presents to an occupational health clinic for a routine hearing assessment. During the consultation, the physician explains the physics of sound perception and the range of frequencies that the human auditory system can detect under normal conditions. The patient asks about the specific frequency range that defines sound waves perceptible to the human ear. What is the sonic frequency range?",
+  "answer": "1500-6000 Hz",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_557__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_557",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old sound engineer presents to an occupational health clinic for a routine hearing assessment. During the consultation, the physician explains the physics of sound perception and the range of frequencies that the human auditory system can detect under normal conditions. The patient asks about the specific frequency range that defines sound waves perceptible to the human ear. What is the sonic frequency range?",
+  "answer": "20,000-30,000 Hz",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2657__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2657",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man is started on a new medication for hypertension. Pharmacokinetic studies of this drug reveal a low apparent volume of distribution (Vd). This finding indicates that",
+  "answer": "Drug is not extensively distribution to tissue",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2657__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2657",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man is started on a new medication for hypertension. Pharmacokinetic studies of this drug reveal a low apparent volume of distribution (Vd). This finding indicates that",
+  "answer": "Drug has low half life",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3747__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3747",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old man presents to his dentist with complaints of bleeding gums and loose teeth. Clinical examination reveals gingival inflammation, periodontal pocket formation, and alveolar bone loss on radiographs. The dentist explains that periodontal disease is caused by various microorganisms that colonize the subgingival space. Which of the following organisms is NOT implicated in the etiology of periodontal disease?",
+  "answer": "Neisseria",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3747__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3747",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old man presents to his dentist with complaints of bleeding gums and loose teeth. Clinical examination reveals gingival inflammation, periodontal pocket formation, and alveolar bone loss on radiographs. The dentist explains that periodontal disease is caused by various microorganisms that colonize the subgingival space. Which of the following organisms is NOT implicated in the etiology of periodontal disease?",
+  "answer": "Bacteroides",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4138__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_4138",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old man presents to the clinic for evaluation of jaw pain after a recent dental procedure. During the physical examination, the physician palpates the masseter muscle and notes its robust contractile strength during clenching. The patient asks why this particular muscle is so strong compared to other muscles of similar size. The masseter's exceptional strength is primarily due to:",
+  "answer": "Multipennate arrangement of fibers",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4138__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_4138",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old man presents to the clinic for evaluation of jaw pain after a recent dental procedure. During the physical examination, the physician palpates the masseter muscle and notes its robust contractile strength during clenching. The patient asks why this particular muscle is so strong compared to other muscles of similar size. The masseter's exceptional strength is primarily due to:",
+  "answer": "Random arrangement of fibers",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_818__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_818",
+  "register": "textbook",
+  "label": 1,
+  "question": "A pediatrician is counseling new parents about infant nutrition and the differences between breast milk and cow's milk. The physician discusses various compositional and physiological characteristics of cow's milk that are relevant to infant feeding decisions. Which of the following statements about cow's milk is NOT true?",
+  "answer": "Cow's milk contains 80% whey protein not casein",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_818__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_818",
+  "register": "textbook",
+  "label": 0,
+  "question": "A pediatrician is counseling new parents about infant nutrition and the differences between breast milk and cow's milk. The physician discusses various compositional and physiological characteristics of cow's milk that are relevant to infant feeding decisions. Which of the following statements about cow's milk is NOT true?",
+  "answer": "Cow milk has less carbohydrate than mothers milk",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1006__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1006",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 25-year-old man presents to the gastroenterology clinic with a 6-month history of abdominal pain and altered bowel habits. CT imaging of the abdomen reveals dilation of the distal ileum, thickening of the ileocecal junction and cecum with sacculations along the antimesenteric border, increased vascularity of the adjacent mesentery, and surrounding mesenteric fat stranding. Which of the following is NOT a differential diagnosis for these findings?",
+  "answer": "Ischemic bowel disease",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1006__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1006",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 25-year-old man presents to the gastroenterology clinic with a 6-month history of abdominal pain and altered bowel habits. CT imaging of the abdomen reveals dilation of the distal ileum, thickening of the ileocecal junction and cecum with sacculations along the antimesenteric border, increased vascularity of the adjacent mesentery, and surrounding mesenteric fat stranding. Which of the following is NOT a differential diagnosis for these findings?",
+  "answer": "Ulcerative colitis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3992__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_3992",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old woman with generalized anxiety disorder reports that she has been avoiding social gatherings because being around large groups of people makes her extremely anxious. She states that when she stays home instead of attending these events, her anxiety symptoms immediately decrease. Over the past 6 months, she has increasingly isolated herself and now rarely leaves her apartment. Which of the following behavioral mechanisms best explains the maintenance of her avoidance behavior?",
+  "answer": "Makes negative to more negative",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_3992__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_3992",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old woman with generalized anxiety disorder reports that she has been avoiding social gatherings because being around large groups of people makes her extremely anxious. She states that when she stays home instead of attending these events, her anxiety symptoms immediately decrease. Over the past 6 months, she has increasingly isolated herself and now rarely leaves her apartment. Which of the following behavioral mechanisms best explains the maintenance of her avoidance behavior?",
+  "answer": "None of the above",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1771__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1771",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old patient presents to the prosthodontics clinic for fabrication of a complete denture. After the initial examination, the dentist decides to create a custom impression tray for this patient to ensure optimal accuracy and fit. Which material is typically carried in a custom tray during the impression-making procedure?",
+  "answer": "Metallic oxide paste",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1771__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1771",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old patient presents to the prosthodontics clinic for fabrication of a complete denture. After the initial examination, the dentist decides to create a custom impression tray for this patient to ensure optimal accuracy and fit. Which material is typically carried in a custom tray during the impression-making procedure?",
+  "answer": "High fusing compound",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1945__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1945",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 35-year-old man presents to the oral surgery clinic with a slowly enlarging, painless swelling of the posterior mandible. Radiographic imaging reveals a multilocular radiolucent lesion with a \"soap bubble\" appearance. An incisional biopsy is performed, and histopathologic examination is conducted. The microscopic appearance of this lesion most closely resembles which of the following structures?",
+  "answer": "BCC",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1945__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1945",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 35-year-old man presents to the oral surgery clinic with a slowly enlarging, painless swelling of the posterior mandible. Radiographic imaging reveals a multilocular radiolucent lesion with a \"soap bubble\" appearance. An incisional biopsy is performed, and histopathologic examination is conducted. The microscopic appearance of this lesion most closely resembles which of the following structures?",
+  "answer": "Fibrosarcoma",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1464__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1464",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 45-year-old woman with a history of iron deficiency anemia is admitted to the hospital with symptomatic anemia and a hematocrit of 21%. The decision is made to transfuse packed red blood cells to improve her oxygen-carrying capacity. Assuming normal blood volume and no ongoing bleeding, by approximately how much would one unit of packed red blood cells be expected to raise her hematocrit?",
+  "answer": "3-5%",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1464__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1464",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 45-year-old woman with a history of iron deficiency anemia is admitted to the hospital with symptomatic anemia and a hematocrit of 21%. The decision is made to transfuse packed red blood cells to improve her oxygen-carrying capacity. Assuming normal blood volume and no ongoing bleeding, by approximately how much would one unit of packed red blood cells be expected to raise her hematocrit?",
+  "answer": "2%",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1463__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1463",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 68-year-old patient presents for evaluation of a removable partial denture design. The dentist plans to incorporate clasps and rests to help stabilize the prosthesis against vertical dislodging forces during function. The component of the partial denture framework that engages undercut areas on the side of the tooth away from the direction of denture displacement is designed to",
+  "answer": "Resist dislodgement of an extension base partial denture in occlusal direction",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1463__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1463",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 68-year-old patient presents for evaluation of a removable partial denture design. The dentist plans to incorporate clasps and rests to help stabilize the prosthesis against vertical dislodging forces during function. The component of the partial denture framework that engages undercut areas on the side of the tooth away from the direction of denture displacement is designed to",
+  "answer": "Engage an undercut area of the abutment tooth",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1501__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1501",
+  "register": "textbook",
+  "label": 1,
+  "question": "A medical student is reviewing risk factors for neonatal hypoglycemia during a pediatrics rotation. The attending physician asks which group of newborns would NOT be at increased risk for developing hypoglycemia in the early postnatal period. Which of the following groups of newborns is at the lowest risk of hypoglycemia?",
+  "answer": "Post term infant",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1501__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1501",
+  "register": "textbook",
+  "label": 0,
+  "question": "A medical student is reviewing risk factors for neonatal hypoglycemia during a pediatrics rotation. The attending physician asks which group of newborns would NOT be at increased risk for developing hypoglycemia in the early postnatal period. Which of the following groups of newborns is at the lowest risk of hypoglycemia?",
+  "answer": "Birth asphyxia",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1806__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_1806",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 58-year-old woman presents to her primary care physician for routine follow-up. Laboratory studies reveal an elevated serum calcium level and elevated parathyroid hormone (PTH). Further workup confirms primary hyperparathyroidism. Additional laboratory findings show decreased serum phosphate levels. What is the mechanism responsible for the decreased phosphate levels observed in this patient's condition?",
+  "answer": "Decreased renal phosphate absorption",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_1806__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_1806",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 58-year-old woman presents to her primary care physician for routine follow-up. Laboratory studies reveal an elevated serum calcium level and elevated parathyroid hormone (PTH). Further workup confirms primary hyperparathyroidism. Additional laboratory findings show decreased serum phosphate levels. What is the mechanism responsible for the decreased phosphate levels observed in this patient's condition?",
+  "answer": "Increased calcium excretion",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4136__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_4136",
+  "register": "textbook",
+  "label": 1,
+  "question": "A dental student is reviewing the multifactorial etiology of dental caries and learns about Newburn's modification of Keyes' triad, which expanded the original three factors into a tetralogy by adding a fourth essential component. The original three factors include susceptible tooth surface, cariogenic bacteria, and fermentable carbohydrates. What is the fourth factor in Newburn's caries tetralogy?",
+  "answer": "Time.",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_4136__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_4136",
+  "register": "textbook",
+  "label": 0,
+  "question": "A dental student is reviewing the multifactorial etiology of dental caries and learns about Newburn's modification of Keyes' triad, which expanded the original three factors into a tetralogy by adding a fourth essential component. The original three factors include susceptible tooth surface, cariogenic bacteria, and fermentable carbohydrates. What is the fourth factor in Newburn's caries tetralogy?",
+  "answer": "Substrate.",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2916__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_2916",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 10-year-old child presents to the outpatient clinic with a 2-week history of pain and a palpable mass in the right lumbar region. The child has no fever and is noted to hold the right hip in a flexed position. Physical examination reveals that the pain significantly worsens with hip extension. Plain radiographs of the spine demonstrate vertebral body changes. What is the most probable diagnosis?",
+  "answer": "Psoas abscess",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_2916__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_2916",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 10-year-old child presents to the outpatient clinic with a 2-week history of pain and a palpable mass in the right lumbar region. The child has no fever and is noted to hold the right hip in a flexed position. Physical examination reveals that the pain significantly worsens with hip extension. Plain radiographs of the spine demonstrate vertebral body changes. What is the most probable diagnosis?",
+  "answer": "Torsion of Right undescended testis",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_371__medqa_format__correct": {
+  "fact_id": "medmcqa_validation_371",
+  "register": "textbook",
+  "label": 1,
+  "question": "A 32-year-old man undergoes open reduction and internal fixation of a tibial fracture with rigid compression plating. Postoperatively, imaging confirms anatomical reduction with a residual gap of 0.8 mm between the fracture fragments. Which of the following best describes the mechanism by which this fracture will heal?",
+  "answer": "Woven bone formation replaced by lamellar bone.",
+  "generator": "medmcqa-reformat-sonnet"
+ },
+ "medmcqa_validation_371__medqa_format__wrong": {
+  "fact_id": "medmcqa_validation_371",
+  "register": "textbook",
+  "label": 0,
+  "question": "A 32-year-old man undergoes open reduction and internal fixation of a tibial fracture with rigid compression plating. Postoperatively, imaging confirms anatomical reduction with a residual gap of 0.8 mm between the fracture fragments. Which of the following best describes the mechanism by which this fracture will heal?",
+  "answer": "Direct lamellar bone formation.",
+  "generator": "medmcqa-reformat-sonnet"
+ }
+}

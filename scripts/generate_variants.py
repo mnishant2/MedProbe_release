@@ -24,7 +24,7 @@ def main() -> int:
     ap.add_argument("--workers", type=int, default=None, help="thread pool size")
     ap.add_argument("--start", type=int, default=0, help="start index in the job list (SLURM array)")
     ap.add_argument("--end", type=int, default=None, help="end index (exclusive) in the job list")
-    ap.add_argument("--no-resume", action="store_true", help="disable resume — overwrite existing output")
+    ap.add_argument("--no-resume", action="store_true", help="disable resume, overwrite existing output")
     ap.add_argument("--facts", default=None, help="override path to facts.json")
     ap.add_argument("--out", default=None, help="override output variants.json path")
     ap.add_argument("--override", nargs="*", default=[], help="OmegaConf dotlist overrides")
@@ -35,7 +35,7 @@ def main() -> int:
 
     facts_path = Path(args.facts) if args.facts else (resolve_path(cfg, "facts_dir") / "facts.json")
     if not facts_path.exists():
-        raise FileNotFoundError(f"No facts file at {facts_path} — run scripts/build_facts.py first.")
+        raise FileNotFoundError(f"No facts file at {facts_path}, run scripts/build_facts.py first.")
     facts = load_facts(facts_path)
     if args.n_facts is not None:
         facts = facts[: args.n_facts]

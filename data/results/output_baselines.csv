@@ -1,0 +1,17 @@
+model,register,ptrue,self_consistency,token_entropy
+gemma-2-2b-it,textbook,0.6874,0.5240499999999999,0.6558
+gemma-2-2b-it,patient,0.6658,0.617,0.596
+gemma-2-2b-it,clinical_note,0.6426000000000001,0.5673999999999999,0.542
+gemma-2-2b-it,colloquial,0.5899,0.5868,0.5146
+gemma-3-4b-it,textbook,0.7046,0.5926,0.49740000000000006
+gemma-3-4b-it,patient,0.68685,0.6391999999999999,0.45
+gemma-3-4b-it,clinical_note,0.6165,0.5533000000000001,0.5530000000000002
+gemma-3-4b-it,colloquial,0.6145,0.5670999999999999,0.5036
+qwen2.5-7b-instruct,textbook,0.7463,0.6630999999999999,0.5932000000000002
+qwen2.5-7b-instruct,patient,0.71215,0.6038,0.5053
+qwen2.5-7b-instruct,clinical_note,0.7114,0.6621,0.484
+qwen2.5-7b-instruct,colloquial,0.6609,0.59755,0.49420000000000003
+llama-3-8b-instruct,textbook,0.7873,0.69215,0.5819
+llama-3-8b-instruct,patient,0.7012999999999999,0.6468,0.4076
+llama-3-8b-instruct,clinical_note,0.7265999999999999,0.69235,0.4917
+llama-3-8b-instruct,colloquial,0.6975999999999999,0.6901499999999999,0.4097

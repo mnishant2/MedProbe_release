@@ -1,0 +1,5 @@
+register,ece_raw,ece_platt,ece_isotonic,platt_delta,isotonic_delta
+textbook,0.25,0.097,0.116,0.153,0.134
+patient,0.378,0.158,0.291,0.22,0.087
+clinical_note,0.376,0.174,0.247,0.202,0.129
+colloquial,0.428,0.198,0.356,0.23,0.072

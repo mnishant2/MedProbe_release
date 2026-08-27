@@ -53,7 +53,7 @@ def main() -> int:
     if args.multi_judge:
         for spec in args.multi_judge:
             if ":" not in spec:
-                raise ValueError(f"--multi-judge spec must be GEN:j1,j2 — got {spec!r}")
+                raise ValueError(f"--multi-judge spec must be GEN:j1,j2, got {spec!r}")
             gen, js = spec.split(":", 1)
             multi_map[gen] = [j.strip() for j in js.split(",") if j.strip()]
 
@@ -71,7 +71,7 @@ def main() -> int:
     for i, gen in enumerate(args.generators):
         variants = _load_variants(cfg, gen)
         if variants is None:
-            log.warning("No variants for generator %s — skipping", gen)
+            log.warning("No variants for generator %s, skipping", gen)
             continue
         tier1 = compute_quality(variants)
 
@@ -90,14 +90,14 @@ def main() -> int:
             scores_path = _judge_dir(cfg, gen, jp) / "scores.json"
             if not scores_path.exists():
                 log.warning(
-                    "No judge scores for %s @ %s at %s — skipping",
+                    "No judge scores for %s @ %s at %s, skipping",
                     gen, jp, scores_path,
                 )
                 continue
             with scores_path.open() as fh:
                 judge_outs[jp] = json.load(fh)
         if not judge_outs:
-            log.warning("No judge files for %s — skipping", gen)
+            log.warning("No judge files for %s, skipping", gen)
             continue
         pooled = _pool_judges(judge_outs, rubric)
         summary = aggregate(pooled, rubric)
@@ -144,7 +144,7 @@ def main() -> int:
         )
 
     if not per_gen_summary:
-        log.error("No generators had judge scores — nothing to compare")
+        log.error("No generators had judge scores, nothing to compare")
         return 3
 
     # Apply selection weights
@@ -242,14 +242,14 @@ def _write_report(cfg, args, per_gen_summary, ranked, rows, log) -> None:
     pivot = pivot[keep_order]
     tex_path = out_dir / f"table_generator_selection_{ts}.tex"
     with tex_path.open("w") as fh:
-        fh.write("% Generator selection — LLM-as-judge + weighted criteria\n")
+        fh.write("% Generator selection, LLM-as-judge + weighted criteria\n")
         fh.write(f"% {ts}\n")
         fh.write(pivot.to_latex(float_format="%.3f"))
 
     md_path = resolve_path(cfg, "quality_dir") / f"generator_selection_{ts}.md"
     md_path.parent.mkdir(parents=True, exist_ok=True)
     lines: list[str] = [
-        f"# Generator selection — {ts}",
+        f"# Generator selection, {ts}",
         "",
         f"**Facts (approx):** {args.n_facts or 'from variants'}",
         "",

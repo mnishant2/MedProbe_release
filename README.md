@@ -42,3 +42,7 @@ Supporting analyses: `build_medmcqa_variants.py`, `run_diff_means_probe.py`,
 
 Four open-weight instruction-tuned LLMs (configured in `configs/models.yaml`):
 Gemma-2-2B, Gemma-3-4B, Qwen2.5-7B, Llama-3-8B.
+
+## Paper
+
+Nishant Mishra, Ameen Abu-Hanna, and Iacer Calixto. *Investigating Linear Probe Robustness to Linguistic Register, Medical Specialty, and Corpus Shifts in Medical QA.* EMNLP 2026.

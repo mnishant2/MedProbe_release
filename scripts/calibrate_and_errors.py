@@ -195,7 +195,7 @@ def main() -> int:
 
     # === Top-K failures per register ===
     md_lines: list[str] = [
-        f"# Top failures — {model_info['slug']} / {args.generator}",
+        f"# Top failures, {model_info['slug']} / {args.generator}",
         "",
         f"Probe: logistic regression, layer {layer}, position {position}.",
         f"Sort: highest-confidence wrong predictions (using raw probabilities).",
@@ -210,7 +210,7 @@ def main() -> int:
         # false negatives: label=1 but raw_prob low
         fn = sub[(sub.label == 1)].sort_values("raw_prob").head(args.top_k)
 
-        md_lines.append(f"## {register} — {args.top_k} false positives (answer is wrong, probe said 'correct')")
+        md_lines.append(f"## {register}, {args.top_k} false positives (answer is wrong, probe said 'correct')")
         md_lines.append("")
         for _, row in fp.iterrows():
             v = variants[row.variant_key]
@@ -223,7 +223,7 @@ def main() -> int:
             md_lines.append(f"  - Q: {q_short}")
             md_lines.append(f"  - A: {a_short}")
         md_lines.append("")
-        md_lines.append(f"## {register} — {args.top_k} false negatives (answer is correct, probe said 'wrong')")
+        md_lines.append(f"## {register}, {args.top_k} false negatives (answer is correct, probe said 'wrong')")
         md_lines.append("")
         for _, row in fn.iterrows():
             v = variants[row.variant_key]

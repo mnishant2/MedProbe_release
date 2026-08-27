@@ -78,7 +78,7 @@ def main() -> int:
                 layer, position, registers=[train_register],
             )
             if X_all.shape[0] == 0:
-                log.warning("no MedQA activations for L=%d pos=%s — skipping", layer, position)
+                log.warning("no MedQA activations for L=%d pos=%s, skipping", layer, position)
                 continue
             fact_ids_all = [m["fact_id"] for m in metas_all]
             train_facts, _ = fact_level_split(fact_ids_all, train_fraction, split_seed)

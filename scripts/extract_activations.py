@@ -36,7 +36,7 @@ def main() -> int:
 
     variants_path = resolve_path(cfg, "variants_dir") / args.generator / "variants.json"
     if not variants_path.exists():
-        raise FileNotFoundError(f"No variants at {variants_path} — run scripts/generate_variants.py first.")
+        raise FileNotFoundError(f"No variants at {variants_path}, run scripts/generate_variants.py first.")
     with variants_path.open() as fh:
         variants = json.load(fh)
     keys = sorted(variants.keys())

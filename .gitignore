@@ -23,3 +23,7 @@ venv/
 
 # os / editor
 .DS_Store
+
+# release data is tracked (see data/README.md)
+!data/
+!data/**

@@ -56,7 +56,7 @@ def main() -> int:
     with variants_path.open() as fh:
         variants = json.load(fh)
 
-    # Optionally cap to first N facts — downstream `build_judge_jobs` will still
+    # Optionally cap to first N facts, downstream `build_judge_jobs` will still
     # pair register variants per fact.
     if args.n_facts is not None:
         fact_ids_seen: list[str] = []

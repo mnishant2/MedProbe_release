@@ -123,7 +123,7 @@ def main() -> int:
     )
 
     lines: list[str] = [
-        f"# Judge consistency — {args.generator}  ({args.judges[0]} vs {args.judges[1]})",
+        f"# Judge consistency, {args.generator}  ({args.judges[0]} vs {args.judges[1]})",
         "",
         f"_Matched variants: {len(clean_keys)}. Generated {ts}._",
         "",

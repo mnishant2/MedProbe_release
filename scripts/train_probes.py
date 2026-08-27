@@ -91,7 +91,7 @@ def main() -> int:
                 registers=[train_register],
             )
             if X_all.shape[0] == 0:
-                log.warning("No training data for layer=%d pos=%s — skipping", layer, position)
+                log.warning("No training data for layer=%d pos=%s, skipping", layer, position)
                 continue
             fact_ids_all = [m["fact_id"] for m in metas_all]
             train_facts, test_facts = fact_level_split(fact_ids_all, train_fraction, split_seed)
